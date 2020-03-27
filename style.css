@@ -1,0 +1,130 @@
+body {
+  font-family: Arial;
+  background-color: #f6f3e5;
+  color: #2e2d29;
+  text-align: center;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 2px solid #ccc;
+  background-color: #f6f3e5;
+  border-top: none;
+}
+
+.container {
+  width: 80%;
+  display: inline-block;
+  text-align: left;
+}
+
+.text-tab {
+  padding: 10px 200px;
+}
+
+img {  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 1300px) {
+  .text-tab {
+    padding: 6px 20px;
+  }
+}
+
+iframe {
+  border-width: 0px;
+}
+
+@media (max-width: 780px) {
+  .container {
+    width: 98%;
+  }
+  img {
+    width: 90%;
+  }
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 0px solid #ccc;
+  background-color: #8c1515;
+  border-radius: 10px 10px 0px 0px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  color: white;
+  border-radius: 10px 10px 0px 0px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #B1040E;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #B1040E;
+}
+
+.text-link {
+  color: #8c1515; 
+}
+
+.text-link:hover {
+  color: #B1040E; 
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
+h4  {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+svg {
+  width: 600px;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
+
+.sd-highlight {
+  color: #2e8b57;
+}
+
+.ls-highlight {
+  color: #78B7C5;
+}
+
+.sim-highlight {
+  color: grey;
+}
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}

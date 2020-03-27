@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<!-- using code from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tabs -->
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Crowdsourcing COVID-19 Information">
+  <title>Crowdsourcing COVID-19 Information</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+      <div class="container" id="container">
+      <h2>Crowdsourcing Info on COVID-19</h2>
+      <p>
+        
+      </p>
+      <p>
+        Look at the <b class="text-link" onclick="openTab('results-button', 'Results')">data we've gathered so far</b> or fill out our <b class="text-link" onclick="openTab('survey-button', 'Survey')">
+        survey</b>!
+      </p>
+      <p>In order to respond effectively to COVID-19, scientists need to contruct models of how it spreads and what policies can effectively contain its spread.</p> 
+
+      <p>Since different policies are being enacted by all 3000+ counties in the United States, we need volunteers to help us gather information on exactly what's happening around the country.</p> 
+
+      <p>Filling out our survey about what is going on (for any county in the United States) and how much people are following social distancing policies in your own community.</p> 
+
+      <p>We are a team of computer scientists and epidemiologists who are assisting the CDC, DOD, and state officials in their COVID-19 planning and response efforts, and their work is briefed to senior federal officials. The epidemiologists on our team have previously supported responses to the 2009 flu pandemic and other epidemiological crises.</p>
+
+      <h5>
+        Team: Jacob Ritchie, Tum C., Mark Whiting, Mitchell Gordon, JD Zamfi, Catherine Mullings, Amy Zhang, MORE PEOPLE Stephen Eubanks, Achla XXX, Madhav Marathe, Michael Bernstein
+      </h5>
+      
+        <div style="display: inline-block;">
+          <img src="stanfordcs.png" style="height:100px">
+        </div>
+
+        <div style="display: inline-block;">        
+          <img src="stanfordhci.png" style="height:100px">
+        </div>
+
+        <div style="display: inline-block;">
+          <img src="uva.png" style="height:100px; border-style: solid">
+        </div>
+      <br>
+      <div class="tab">
+        <button class="tablinks" id="survey-button" onclick="openTab('survey-button', 'Survey')">Survey</button>
+        <button class="tablinks" id="results-button" onclick="openTab('results-button', 'Results')">Results</button>
+      </div>
+
+      <div id="Survey" class="tabcontent">
+        <iframe src="https://stanforduniversity.qualtrics.com/jfe/form/SV_cZ7qUgbiDVu94rj" width="100%" height="1300px"></iframe>
+      </div>
+      
+      <div id="Results" class="tabcontent">
+
+          <h5>We have intervention data for <b class="text-link">3 billion counties</b> so far.</h5>
+          <h5>We have compliance data for <b class="text-link">2 billion counties</b> so far.</h5>
+          
+          <p> Click on the map to find data for your own county, or find a county with missing information and add it!</p>
+          <p> Counties in green have complete info, counties in yellow need answers from local residents, and counties in grey need your help!</p>
+          <h5 style="color:red">To be replaced with interactive map:</h5>
+          <img src="map.bmp" style="width: 60%">
+          <h5 style="color:red">Clicking on a county with missing intervention info in the map vis will take participants to the survey tab, with a prompt asking them to add info for that county</h5>
+    
+      </div>
+    
+        <p>Funding was provided by the <a class="text-link" href="https://nih.gov/">NIH ???</a></p> 
+      
+    </div>
+     
+  </body>
+  <script>
+      //control tab behaviour
+      function openTab(buttonId, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        document.getElementById(buttonId).className += " active";
+      }
+
+      openTab('results-button', 'Results')
+  </script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script type="text/javascript" src="graphs.js"></script>
+
+</html> 
