@@ -62,7 +62,7 @@
 
       const outline = svg.append("path")
       .attr("fill", "none")
-      .attr("stroke", "#175e54")
+      .attr("stroke", "black")
       .attr("stroke-width", "3")
       .attr("stroke-linejoin", "round")
       .attr("pointer-events", "none");
