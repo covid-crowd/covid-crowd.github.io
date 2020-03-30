@@ -119,6 +119,7 @@ svg {
   display: block;
   width:100%;
   margin: auto;
+  margin-bottom: 15px;
 }
 
 .tg  {border-collapse:collapse;border-spacing:0;}
