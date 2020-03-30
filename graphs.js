@@ -1,7 +1,7 @@
   // global variables used across all charts
   var padding = 20;
-  var width = Math.min(975,document.getElementsByClassName("container")[0].offsetWidth - 30);
-  var height = width * 610 / 975;
+  var width = 975;
+  var height = 610 ;
 
   function drawGraph(values) {    
     var path = d3.geoPath()

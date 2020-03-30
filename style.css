@@ -19,8 +19,8 @@ body {
 .btn-padded {
   padding: 10px;
   margin: 20px;
-  background-color: #8c1515;
-  border-color: #8c1515;
+  white-space: normal;
+  box-shadow: 5px 10px 18px #888888;
 }
 
 
