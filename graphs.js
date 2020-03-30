@@ -1,7 +1,7 @@
   // global variables used across all charts
   var padding = 20;
   var width = 975;
-  var height = 610 ;
+  var height = 610;
 
   function drawGraph(values) {    
     var path = d3.geoPath()
@@ -36,12 +36,13 @@
         item.data = data.find(function (d) { return d.id === item.id })
     })
 
+    states = topojson.feature(us, us.objects.states).features
 
     // code to select a state and outline it in green 
     svg.append("g")
     .attr("opacity", "0")
     .selectAll("path")
-    .data(topojson.feature(us, us.objects.states).features)
+    .data(states)
     .enter().append("path")
       .attr("d", path)
       .on("click", d => {
@@ -65,6 +66,10 @@
       .attr("stroke-width", "3")
       .attr("stroke-linejoin", "round")
       .attr("pointer-events", "none");
+
+
+
+      outline.attr("d",path(states.find(d => d.id == "06")));
 
       d3.select("#santa-clara-link").on("click", () => {d3.select("#santa-clara-info").attr("style","display:block;")})
 
