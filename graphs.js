@@ -1,7 +1,7 @@
   // global variables used across all charts
   var padding = 20;
-  var width = Math.min(900,document.getElementsByClassName("container")[0].offsetWidth - 10);
-  var height = 300;
+  var width = Math.min(975,document.getElementsByClassName("container")[0].offsetWidth - 30);
+  var height = width * 610 / 975;
 
   function drawGraph(values) {    
     var path = d3.geoPath()
@@ -18,7 +18,7 @@
     // code from Bostock's d3 documentation on Observable  
     // URL: 
 
-    svg_string = `<svg viewBox="0 0 ${width} 610">
+    svg_string = `<svg viewBox="0 0 ${width} ${height}">
   <g fill="none" stroke="#000" stroke-linejoin="round" stroke-linecap="round">
     <path stroke="#aaa" stroke-width="0.5" d="${path(topojson.mesh(us, us.objects.counties, (a, b) => a !== b && (a.id / 1000 | 0) === (b.id / 1000 | 0)))}"></path>
     <path stroke-width="0.5" d="${path(topojson.mesh(us, us.objects.states, (a, b) => a !== b))}"></path>
@@ -29,7 +29,6 @@
     svg.html(svg_string)
 
     svg = d3.select("svg")
-
 
     counties = topojson.feature(us, us.objects.counties).features
 

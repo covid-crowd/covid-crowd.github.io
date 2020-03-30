@@ -1,28 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}   
+
 body {
-  font-family: Arial;
-  background-color: #f6f3e5;
   color: #2e2d29;
+  background-color: #F4F4F4;  
   text-align: center;
 }
 
-/* Style the tab content */
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  border: 2px solid #ccc;
-  background-color: #f6f3e5;
-  border-top: none;
-}
-
 .container {
+  background-color: #FFFFFF;  
   width: 80%;
   display: inline-block;
   text-align: left;
+  padding: 10px 100px;
 }
 
-.text-tab {
-  padding: 10px 200px;
+.btn-padded {
+  padding: 10px;
+  margin: 20px;
+  background-color: #8c1515;
+  border-color: #8c1515;
 }
+
+
 
 img {  
   display: block;
@@ -31,7 +32,7 @@ img {
 }
 
 @media (max-width: 1300px) {
-  .text-tab {
+  .container {
     padding: 6px 20px;
   }
 }
@@ -115,9 +116,8 @@ p {
 }
 
 svg {
-  width: 600px;
-  height: 300px;
   display: block;
+  width:100%;
   margin: auto;
 }
 
