@@ -11,12 +11,63 @@ function drawGraph(values) {
     if (x == 2){ return "#175e54"; }
   }
 
-  add_state_info = function()  {
-      return;
+  add_state_info = function(d,counties_in_state,state)  {
+
+    //`<p><b class="status-2">We have complete data from these ${} counties: ${county_names}`
+    
+    counties_with_intervention_data = counties_in_state.filter(function(item) {
+        return item.intervention_data != undefined;
+    })
+
+    console.log(counties_with_intervention_data)
+
+    county_names = counties_with_intervention_data.map(function (item) {
+        return `<a onclick="add_county_info(${item.id})">${item.properties.name}</a>`
+    }).join(", ")
+
+    var partial_counties, no_data_counties;
+    num_partial_counties = counties_with_intervention_data.length;
+
+    if (num_partial_counties == 0)
+    {
+      partial_counties = '';
+    } 
+    else if (num_partial_counties == 1) {
+      partial_counties = `<p><b class="status-1">We have partial data from one ` + 
+            `county, but need more info from residents.</b> `+
+            `${county_names}</p>`  
+    }
+    else {
+        partial_counties = `<p><b class="status-1">We have partial data from these` + 
+            `${num_partial_counties} counties, but need more info from residents.</b>`+
+            `${county_names}</p>`  
+    }
+
+    num_no_data_counties = counties_in_state.length - num_partial_counties
+
+    if (num_no_data_counties == 0)
+    {
+      no_data_counties = '';
+    } 
+    else if (num_no_data_counties == 1) {
+      no_data_counties = `<p><b class="status-1">We need data from one` + 
+            `more county in this state, anyone can volunteer!</b>`
+    }
+    else {
+        no_data_counties = `<p><b class="status-0">We need data from ${num_no_data_counties}`+` 
+        more counties in this state, anyone can volunteer!</b></p>`
+    }
+
+    var div_content = `<h4> ${state} </h4>                
+                      ${partial_counties}  
+                      ${no_data_counties}
+                      `
+    document.getElementById("state-info").innerHTML = div_content;
   }
 
   add_county_info = function(argument) {
-    return;
+    var div_content = `<h4> </h4>`
+    document.getElementById("county-info").innerHTML = div_content;
   }
 
 
@@ -34,7 +85,6 @@ function drawGraph(values) {
       item.intervention_data = undefined;
   });
 
-  
   intervention_data.forEach(function (item) {
       county = counties.find(function (d) { return d.id === item.fips })
       county.intervention_data = item;
@@ -65,7 +115,7 @@ function drawGraph(values) {
     .on("click", d => {
       outline.attr("d", path(d));
       counties_in_state = counties.filter(function (item) { return d.id === item.id.slice(0,2); });
-      add_state_info(d,counties_in_state)
+      add_state_info(d,counties_in_state,d.properties.name)
     });
 
   const outline = svg.append("path")
@@ -75,7 +125,10 @@ function drawGraph(values) {
   .attr("stroke-linejoin", "round")
   .attr("pointer-events", "none");
 
-  outline.attr("d",path(states.find(d => d.id == "06")));
+  california = states.find(d => d.id == "06");
+  california_counties = counties.filter(function (item) { return "06" === item.id.slice(0,2); });
+  outline.attr("d",path(california));
+  add_state_info(california,california_counties,"California");
 
   d3.select("#santa-clara-link").on("click", () => {d3.select("#santa-clara-info").attr("style","display:block;")})
 
