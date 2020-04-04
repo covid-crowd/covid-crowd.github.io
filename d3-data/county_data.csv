@@ -185,13 +185,13 @@ Arkansas,Washington County,05143,0
 Arkansas,White County,05145,0
 Arkansas,Woodruff County,05147,0
 Arkansas,Yell County,05149,0
-California,Alameda County,06001,0
+California,Alameda County,06001,1
 California,Alpine County,06003,0
 California,Amador County,06005,0
 California,Butte County,06007,0
 California,Calaveras County,06009,0
 California,Colusa County,06011,0
-California,Contra Costa County,06013,0
+California,Contra Costa County,06013,1
 California,Del Norte County,06015,0
 California,El Dorado County,06017,0
 California,Fresno County,06019,0
@@ -233,7 +233,7 @@ California,Shasta County,06089,0
 California,Sierra County,06091,0
 California,Siskiyou County,06093,0
 California,Solano County,06095,0
-California,Sonoma County,06097,0
+California,Sonoma County,06097,1
 California,Stanislaus County,06099,0
 California,Sutter County,06101,0
 California,Tehama County,06103,0
@@ -1216,15 +1216,15 @@ Maryland,Washington County,24043,0
 Maryland,Wicomico County,24045,0
 Maryland,Worcester County,24047,0
 Maryland,Baltimore city,24510,0
-Massachusetts,Barnstable County,25001,0
-Massachusetts,Berkshire County,25003,0
-Massachusetts,Bristol County,25005,0
-Massachusetts,Dukes County,25007,0
-Massachusetts,Essex County,25009,0
+Massachusetts,Barnstable County,25001,1
+Massachusetts,Berkshire County,25003,1
+Massachusetts,Bristol County,25005,1
+Massachusetts,Dukes County,25007,1
+Massachusetts,Essex County,25009,1
 Massachusetts,Franklin County,25011,0
 Massachusetts,Hampden County,25013,0
 Massachusetts,Hampshire County,25015,0
-Massachusetts,Middlesex County,25017,0
+Massachusetts,Middlesex County,25017,1
 Massachusetts,Nantucket County,25019,0
 Massachusetts,Norfolk County,25021,0
 Massachusetts,Plymouth County,25023,0
@@ -1328,7 +1328,7 @@ Minnesota,Chippewa County,27023,0
 Minnesota,Chisago County,27025,0
 Minnesota,Clay County,27027,0
 Minnesota,Clearwater County,27029,0
-Minnesota,Cook County,27031,0
+Minnesota,Cook County,27031,1
 Minnesota,Cottonwood County,27033,0
 Minnesota,Crow Wing County,27035,0
 Minnesota,Dakota County,27037,0
