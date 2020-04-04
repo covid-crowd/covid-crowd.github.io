@@ -212,7 +212,7 @@ California,Merced County,06047,0
 California,Modoc County,06049,0
 California,Mono County,06051,0
 California,Monterey County,06053,0
-California,Napa County,06055,0
+California,Napa County,06055,1
 California,Nevada County,06057,0
 California,Orange County,06059,0
 California,Placer County,06061,0
@@ -222,17 +222,17 @@ California,Sacramento County,06067,0
 California,San Benito County,06069,0
 California,San Bernardino County,06071,0
 California,San Diego County,06073,0
-California,San Francisco County,06075,0
+California,San Francisco County,06075,1
 California,San Joaquin County,06077,0
 California,San Luis Obispo County,06079,0
-California,San Mateo County,06081,0
+California,San Mateo County,06081,1
 California,Santa Barbara County,06083,0
 California,Santa Clara County,06085,1
 California,Santa Cruz County,06087,0
 California,Shasta County,06089,0
 California,Sierra County,06091,0
 California,Siskiyou County,06093,0
-California,Solano County,06095,0
+California,Solano County,06095,1
 California,Sonoma County,06097,1
 California,Stanislaus County,06099,0
 California,Sutter County,06101,0
@@ -361,7 +361,7 @@ Florida,Madison County,12079,0
 Florida,Manatee County,12081,0
 Florida,Marion County,12083,0
 Florida,Martin County,12085,0
-Florida,Miami-Dade County,12086,0
+Florida,Miami-Dade County,12086,1
 Florida,Monroe County,12087,0
 Florida,Nassau County,12089,0
 Florida,Okaloosa County,12091,0
@@ -373,7 +373,7 @@ Florida,Pasco County,12101,0
 Florida,Pinellas County,12103,0
 Florida,Polk County,12105,0
 Florida,Putnam County,12107,0
-Florida,St. Johns County,12109,0
+Florida,St. Johns County,12109,1
 Florida,St. Lucie County,12111,0
 Florida,Santa Rosa County,12113,0
 Florida,Sarasota County,12115,0
@@ -445,7 +445,7 @@ Georgia,Fayette County,13113,0
 Georgia,Floyd County,13115,0
 Georgia,Forsyth County,13117,0
 Georgia,Franklin County,13119,0
-Georgia,Fulton County,13121,0
+Georgia,Fulton County,13121,1
 Georgia,Gilmer County,13123,0
 Georgia,Glascock County,13125,0
 Georgia,Glynn County,13127,0
@@ -482,7 +482,7 @@ Georgia,Lumpkin County,13187,0
 Georgia,McDuffie County,13189,0
 Georgia,McIntosh County,13191,0
 Georgia,Macon County,13193,0
-Georgia,Madison County,13195,0
+Georgia,Madison County,13195,1
 Georgia,Marion County,13197,0
 Georgia,Meriwether County,13199,0
 Georgia,Miller County,13201,0
@@ -1221,9 +1221,9 @@ Massachusetts,Berkshire County,25003,1
 Massachusetts,Bristol County,25005,1
 Massachusetts,Dukes County,25007,1
 Massachusetts,Essex County,25009,1
-Massachusetts,Franklin County,25011,0
-Massachusetts,Hampden County,25013,0
-Massachusetts,Hampshire County,25015,0
+Massachusetts,Franklin County,25011,1
+Massachusetts,Hampden County,25013,1
+Massachusetts,Hampshire County,25015,1
 Massachusetts,Middlesex County,25017,1
 Massachusetts,Nantucket County,25019,0
 Massachusetts,Norfolk County,25021,0
@@ -2536,7 +2536,7 @@ Texas,Bastrop County,48021,0
 Texas,Baylor County,48023,0
 Texas,Bee County,48025,0
 Texas,Bell County,48027,0
-Texas,Bexar County,48029,0
+Texas,Bexar County,48029,1
 Texas,Blanco County,48031,0
 Texas,Borden County,48033,0
 Texas,Bosque County,48035,0
@@ -2564,7 +2564,7 @@ Texas,Clay County,48077,0
 Texas,Cochran County,48079,0
 Texas,Coke County,48081,0
 Texas,Coleman County,48083,0
-Texas,Collin County,48085,0
+Texas,Collin County,48085,1
 Texas,Collingsworth County,48087,0
 Texas,Colorado County,48089,0
 Texas,Comal County,48091,0
@@ -2622,7 +2622,7 @@ Texas,Hamilton County,48193,0
 Texas,Hansford County,48195,0
 Texas,Hardeman County,48197,0
 Texas,Hardin County,48199,0
-Texas,Harris County,48201,0
+Texas,Harris County,48201,1
 Texas,Harrison County,48203,0
 Texas,Hartley County,48205,0
 Texas,Haskell County,48207,0
@@ -2741,7 +2741,7 @@ Texas,Sterling County,48431,0
 Texas,Stonewall County,48433,0
 Texas,Sutton County,48435,0
 Texas,Swisher County,48437,0
-Texas,Tarrant County,48439,0
+Texas,Tarrant County,48439,1
 Texas,Taylor County,48441,0
 Texas,Terrell County,48443,0
 Texas,Terry County,48445,0
@@ -2978,7 +2978,7 @@ Washington,Mason County,53045,0
 Washington,Okanogan County,53047,0
 Washington,Pacific County,53049,0
 Washington,Pend Oreille County,53051,0
-Washington,Pierce County,53053,0
+Washington,Pierce County,53053,1
 Washington,San Juan County,53055,0
 Washington,Skagit County,53057,0
 Washington,Skamania County,53059,0
