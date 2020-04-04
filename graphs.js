@@ -34,12 +34,12 @@ function drawGraph(values) {
     } 
     else if (num_partial_counties == 1) {
       partial_counties = `<p><b class="status-1">We have partial data from one ` + 
-            `county, but need more info from residents.</b> `+
+            `county, but need more info from residents! </b> `+
             `${county_names}</p>`  
     }
     else {
-        partial_counties = `<p><b class="status-1">We have partial data from these` + 
-            `${num_partial_counties} counties, but need more info from residents.</b>`+
+        partial_counties = `<p><b class="status-1">We have partial data from these ` + 
+            `${num_partial_counties} counties, but need more info from residents! </b>`+
             `${county_names}</p>`  
     }
 
@@ -105,6 +105,14 @@ function drawGraph(values) {
   svg.html(svg_string);
   svg = d3.select("svg");
 
+   d3.select("svg").append("g")
+  .selectAll("path")
+  .data(counties)
+  .join("path")      
+    .attr("fill", d => color(d.data.status))
+    .attr("opacity", 0.8)
+    .attr("d", path)
+
   // code to select a state and outline it in green 
   svg.append("g")
   .attr("opacity", "0")
@@ -132,12 +140,7 @@ function drawGraph(values) {
 
   d3.select("#santa-clara-link").on("click", () => {d3.select("#santa-clara-info").attr("style","display:block;")})
 
-  d3.select("svg").append("g")
-  .selectAll("path")
-  .data(counties)
-  .join("path")      
-    .attr("fill", d => color(d.data.status))
-    .attr("d", path)
+ 
 
 }
 
