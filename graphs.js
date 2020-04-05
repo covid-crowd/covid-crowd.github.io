@@ -88,7 +88,10 @@ function drawGraph(values) {
   intervention_data.forEach(function (item) {
       county = counties.find(function (d) { return d.id === item.fips })
       county.intervention_data = item;
+      county.data.status = 1;
   });
+
+  d3.select("#counter").html(intervention_data.length + "/" + counties.length);
 
   // code from Bostock's d3 documentation on Observable  
   // URL: 

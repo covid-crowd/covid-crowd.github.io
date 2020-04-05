@@ -14,6 +14,7 @@ body {
   display: inline-block;
   text-align: left;
   padding: 10px 100px;
+  border-radius: 10px;
 }
 
 .btn-padded {
@@ -23,7 +24,26 @@ body {
   box-shadow: 5px 5px 1px #5555;
 }
 
+.share-buttons > * {
+  vertical-align: middle;
+  margin-right: 2px;
+  margin-left: 2px;
+}
 
+.share-container {
+  width: 300px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ccc;
+  border-radius: 10px;
+  padding: 10px 10px 0px 10px;
+}
+
+
+svg {
+    cursor:pointer;
+}
 
 img {
   display: block;
@@ -37,7 +57,7 @@ img {
   }
 }
 
-iframe {
+#iframe {
   border-width: 0px;
   padding-bottom: 15px;
 }
