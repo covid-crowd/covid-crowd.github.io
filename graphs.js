@@ -58,7 +58,7 @@ function drawGraph(values) {
       }
     }
     if (closed_url) {
-      question_string += ' (<a href="' + closed_url + '">Source</a>)'
+      question_string += ' (<a target="_blank" href="' + closed_url + '">Source</a>)'
     }
     else {
       question_string += " (Missing source)"
@@ -73,7 +73,7 @@ function drawGraph(values) {
          question_string += ", no date provided."
       }
       if (open_url) {
-        question_string += ' (<a href="' + open_url + '">Source</a>)'
+        question_string += ' (<a target="_blank" href="' + open_url + '">Source</a>)'
       }
       else {
         question_string += " (Missing source)"
@@ -101,7 +101,7 @@ function drawGraph(values) {
       
     }
     if (data.religion_closed_url) {
-        question_string += ' (<a href="' + data.religion_closed_url + '">Source</a>)'
+        question_string += ' (<a target="_blank" href="' + data.religion_closed_url + '">Source</a>)'
     }
     else {
         question_string += " (Missing source)"
@@ -116,7 +116,7 @@ function drawGraph(values) {
          question_string += ", no date provided."
       }
       if (data.religion_open_url) {
-        question_string += ' (<a href="' + data.religion_open_url + '">Source</a>)'
+        question_string += ' (<a target="_blank" href="' + data.religion_open_url + '">Source</a>)'
       }
       else {
         question_string += " (Missing source)"
@@ -144,7 +144,7 @@ function drawGraph(values) {
       
     }
     if (data.lockdown_closed_url) {
-      question_string += ' (<a href="' + data.lockdown_closed_url + '">Source</a>)'
+      question_string += ' (<a target="_blank" href="' + data.lockdown_closed_url + '">Source</a>)'
     }
     else {
       question_string += " (Missing source)"
@@ -159,7 +159,7 @@ function drawGraph(values) {
          question_string += ", no date provided."
       }
       if (data.lockdown_open_url) {
-        question_string += ' (<a href="' + data.lockdown_open_url + '">Source</a>)'
+        question_string += ' (<a target="_blank" href="' + data.lockdown_open_url + '">Source</a>)'
       }
       else {
         question_string += " (Missing source)"
