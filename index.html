@@ -2,12 +2,22 @@
 <html>
 <!-- using code from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tabs -->
   <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Crowdsourcing COVID-19 Information">
   <meta charset="UTF-8">
-  <meta property="og:image"         content="https://covid-crowd.github.io/img/map.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Help Predict COVID-19’s Spread in Your Community</title>
+  <meta property="og:title" content="Help Predict COVID-19’s Spread in Your Community" />
+  
+  <meta name="description" content="Crowdsourcing COVID-19 Policy Information">
+  <meta property="og:description" content="Crowdsourcing COVID-19 Policy Information" />
+
+  <meta property="og:image" content="https://covid-crowd.github.io/img/map.png" />
+  <meta property="og:url" content="https://socialdistancing.stanford.edu/" />
+  
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@stanfordhci" />
+  <meta name="twitter:creator" content="@jwkritchie" />
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
@@ -92,9 +102,9 @@
           <h4>How did you choose which data to collect?</h4>
           <p>We collaborated with epidemiologists producing models of local spread for COVID-19. The items being collected, including shelter-in-place orders, local religious gatherings, school closure, business closure, and the start dates of each, are the central components of their models for predicting COVID-19 spread. We opted to keep the data collection as lean as possible, the biggest "bang for the epidemiologists' buck", so that we could successfully collect across as many counties as possible.</p>
           <h4>How is this project different from the many other COVID-19 projects?</h4>
-          <p>We are in touch with several other efforts, including those from <a href="https://www.keystonestrategy.com/covid-19/">Keystone</a> and <a href="https://query.wikidata.org/#SELECT%20%3FplaceLabel%20%3Ffips%20%3FisoStartDate%20%20%3FstartSource%0AWHERE%20%7B%0A%20%20%3Forder%20wdt%3AP31%20wd%3AQ88509703%3B%0A%20%20wdt%3AP1001%20%3Fid.%0A%20%20FILTER%28BOUND%28%3Ffips%29%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%27en%27.%0A%20%20%20%20%3Forder%20rdfs%3Alabel%20%3ForderLabel.%0A%20%20%20%20%3Fid%20rdfs%3Alabel%20%3FplaceLabel.%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fid%20wdt%3AP882%20%3FfipsCounty.%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fid%20wdt%3AP5087%20%3FfipsState.%0A%20%20%7D%0A%20%20BIND%28IF%28BOUND%28%3FfipsCounty%29%2C%3FfipsCounty%2C%3FfipsState%29%20AS%20%3Ffips%29%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Forder%20wdt%3AP580%20%3FisoStartDate.%0A%20%20%20%20%3Forder%20p%3AP580%20%3FstartStatement.%0A%20%20%20%20%3FstartStatement%20ps%3AP580%20%3FstartValue.%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3FstartStatement%20prov%3AwasDerivedFrom%20%3FstartRefNode.%0A%20%20%20%20%20%20%3FstartRefNode%20pr%3AP854%20%3FstartURL.%0A%20%20%20%20%7D%0A%20%20%20%20BIND%28str%28%3FstartURL%29%20as%20%3FstartSource%29.%0A%20%20%7D%0A%7D">Wikipedia</a>, who are also gathering county-level data on policy interventions. We have synchronized our schemas and are sharing the public data as quickly as possible. We welcome others to use the data we produce as well. Integrating data from other sources into our crowdsourcing workflow to enable data verification is one of our immediate priorities. Everyone's goal here is to get to a complete and accurate dataset as quickly as possible, and we welcome any efforts that allow us to work together toward that goal!</p>
+          <p>We are aware of parallel efforts, including those from <a href="https://www.keystonestrategy.com/covid-19/">Keystone</a> and <a href="https://query.wikidata.org/#SELECT%20%3FplaceLabel%20%3Ffips%20%3FisoStartDate%20%20%3FstartSource%0AWHERE%20%7B%0A%20%20%3Forder%20wdt%3AP31%20wd%3AQ88509703%3B%0A%20%20wdt%3AP1001%20%3Fid.%0A%20%20FILTER%28BOUND%28%3Ffips%29%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%27en%27.%0A%20%20%20%20%3Forder%20rdfs%3Alabel%20%3ForderLabel.%0A%20%20%20%20%3Fid%20rdfs%3Alabel%20%3FplaceLabel.%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fid%20wdt%3AP882%20%3FfipsCounty.%0A%20%20%7D%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fid%20wdt%3AP5087%20%3FfipsState.%0A%20%20%7D%0A%20%20BIND%28IF%28BOUND%28%3FfipsCounty%29%2C%3FfipsCounty%2C%3FfipsState%29%20AS%20%3Ffips%29%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Forder%20wdt%3AP580%20%3FisoStartDate.%0A%20%20%20%20%3Forder%20p%3AP580%20%3FstartStatement.%0A%20%20%20%20%3FstartStatement%20ps%3AP580%20%3FstartValue.%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3FstartStatement%20prov%3AwasDerivedFrom%20%3FstartRefNode.%0A%20%20%20%20%20%20%3FstartRefNode%20pr%3AP854%20%3FstartURL.%0A%20%20%20%20%7D%0A%20%20%20%20BIND%28str%28%3FstartURL%29%20as%20%3FstartSource%29.%0A%20%20%7D%0A%7D">Wikipedia</a>, who are also gathering county-level data on policy interventions. We communicated with some of these efforts to synchronize our data schemas, and we are committed to sharing our verified data publicly as quickly as possible. Integrating data from other sources into our crowdsourcing workflow to enable data verification is one of our immediate priorities, and we welcome others to use the data we produce as well. Everyone's goal here is to get to a complete and accurate dataset as quickly as possible, and we welcome any efforts that allow us to work together toward that goal!</p>
           <h4>Why is crowdsourcing a good way to collect this data?</h4>
-          <p>There are over 3,000 counties in the United States. Wikidata, Keystone, and others have on the order of tens to a few hundred counties covered. We need much, much more data in order to succeed at this epidemiological task. Luckily, this is also data that is known to residents of each county and searchable via the web - which is why we need your help!</p>
+          <p>There are over 3,000 counties in the United States. Wikipedia, Keystone, and others have on the order of tens to a few hundred counties covered. We need much, much more data in order to succeed at this epidemiological task. Luckily, this is also data that is known to residents of each county and searchable via the web - which is why we need your help!</p>
           <!--<h4>Other COVID-19 Resources</h4>
           <p>[not sure what's meant here]</p>-->
           <h4>Who is behind this project?</h4>
