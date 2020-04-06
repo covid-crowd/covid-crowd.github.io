@@ -172,6 +172,10 @@ img {
   background-color: #B1040E;
 }
 
+#spreadsheet-link {
+  padding-top: 10px;
+}
+
 .text-link {
   color: #8c1515;
 }
