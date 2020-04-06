@@ -56,12 +56,13 @@ body {
   background: #aaa !important;
 }
 
-.pill:active {
-  background-color: #eaab00;
-}
 
 .pill:hover {
   background-color: #eaab00;
+}
+
+.pill:active {
+  background-color: #ffd200;
 }
 
 #state-info {
@@ -69,7 +70,6 @@ body {
   padding-top: 10px;
   background: #eeeeee;
   padding: 12px;
-  border-radius: 0px 0px 10px 10px;
 }
 
 #county-info {

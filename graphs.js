@@ -179,7 +179,7 @@ function drawGraph(values) {
       get_religion_string(county) + get_lockdown_string(county) + "</div>"
 
     document.getElementById("county-info").innerHTML = div_content;
-    document.getElementById("state-info").setAttribute("style","border-radius: 0px");
+    
   }
 
   const add_state_info = function(d,counties_in_state,state)  {
@@ -187,7 +187,6 @@ function drawGraph(values) {
     //`<p><b class="status-2">We have complete data from these ${} counties: ${county_names}`
     
     document.getElementById("county-info").innerHTML = "";
-    document.getElementById("state-info").setAttribute("style","");
 
     counties_with_intervention_data = counties_in_state.filter(function(item) {
         return item.intervention_data != undefined;
