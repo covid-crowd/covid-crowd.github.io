@@ -17,6 +17,69 @@ body {
   border-radius: 10px;
 }
 
+#widget {
+   border: 1px solid #aaa;
+   border-radius: 10px;
+   padding: 1px;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10+ and Edge */
+  user-select: none; /* Standard syntax */
+}
+
+.county-text {
+  display: inline-block;
+  background: #ddd;
+  border-radius: 10px;
+  margin-top:5px;
+  padding:20px;
+  font-size: large;
+}
+
+.pill {
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-width: 10px;
+  width: fit-content;
+  display: inline-block;
+  background: #aaa;
+  margin-left: 5px;
+  color: white;
+  margin-bottom: 5px; 
+  font-size: large;
+  cursor: pointer;
+}
+
+.main-pill {
+  margin-left: 0px;
+  cursor: auto;
+  background: #aaa !important;
+}
+
+.pill:active {
+  background-color: #eaab00;
+}
+
+.pill:hover {
+  background-color: #eaab00;
+}
+
+#state-info {
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+  background: #eeeeee;
+  padding: 12px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+#county-info {
+  padding-top: 10px;
+  background: #eee;
+  padding: 12px;
+  padding-top: 0px;
+  border-radius: 0px 0px 10px 10px;
+}
+
 .btn-padded {
   padding: 10px;
   margin: 20px;
