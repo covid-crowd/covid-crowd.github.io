@@ -11,6 +11,7 @@ function drawGraph(values) {
     if (x == 0){ return "none"; }
     if (x == 1){ return "#eaab00"; }
     if (x == 2){ return "#175e54"; }
+    if (x == 3){ return "#00EAAB"; }
   }
   
   Date.prototype.to_string = function ()  {
@@ -244,6 +245,7 @@ function drawGraph(values) {
   var county_data = values[0];
   var us = values[1];
   var intervention_data = values[2];
+  var unverified_data = values[3];
 
   var states = topojson.feature(us, us.objects.states).features;
   var counties = topojson.feature(us, us.objects.counties).features;
@@ -255,11 +257,18 @@ function drawGraph(values) {
       item.intervention_data = undefined;
   });
 
+  unverified_data.forEach(function (item) {
+      county = counties.find(function (d) { return d.id === item.fips })
+      if (county.data.status == 0) {county.data.status = 3;}
+  });
+
   intervention_data.forEach(function (item) {
       county = counties.find(function (d) { return d.id === item.fips })
       county.intervention_data = item;
       county.data.status = 1;
   });
+
+
 
   d3.select("#counter").html(intervention_data.length + "/" + counties.length);
 
@@ -323,6 +332,7 @@ var promises = [];
 promises.push(d3.csv('d3-data/county_data.csv'))
 promises.push(d3.json('d3-data/counties-albers-10m.json'))
 promises.push(d3.csv('d3-data/intervention_data.csv'))
+promises.push(d3.csv('d3-data/unverified_data.csv'))
 
 Promise.all(promises).then(function(values) {
     drawGraph(values)
