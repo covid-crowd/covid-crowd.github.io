@@ -1,0 +1,902 @@
+location_1,location_2,fips
+Alabama,Jefferson County,01073
+Alabama,Madison County,01089
+Alabama,Madison County,01089
+Alaska,Aleutians West Census Area,02016
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Pima County,04019
+Arizona,Pima County,04019
+Arizona,Pima County,04019
+Arkansas,Ashley County,05003
+Arkansas,Bradley County,05011
+Arkansas,Polk County,05113
+Arkansas,Pulaski County,05119
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Fresno County,06019
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Humboldt County,06023
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Marin County,06041
+California,Marin County,06041
+California,Marin County,06041
+California,Mendocino County,06045
+California,Merced County,06047
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Placer County,06061
+California,Riverside County,06065
+California,Riverside County,06065
+California,Riverside County,06065
+California,Riverside County,06065
+California,Riverside County,06065
+California,Riverside County,06065
+California,Riverside County,06065
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,San Benito County,06069
+California,San Bernardino County,06071
+California,San Bernardino County,06071
+California,San Bernardino County,06071
+California,San Bernardino County,06071
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,Santa Barbara County,06083
+California,Santa Barbara County,06083
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Solano County,06095
+California,Solano County,06095
+California,Sonoma County,06097
+California,Sonoma County,06097
+California,Sonoma County,06097
+California,Ventura County,06111
+Colorado,Adams County,08001
+Colorado,Arapahoe County,08005
+Colorado,Boulder County,08013
+Colorado,Boulder County,08013
+Colorado,Denver County,08031
+Colorado,Denver County,08031
+Colorado,Garfield County,08045
+Colorado,Larimer County,08069
+Colorado,Larimer County,08069
+Colorado,Larimer County,08069
+Colorado,Larimer County,08069
+Colorado,Pitkin County,08097
+Connecticut,Fairfield County,09001
+Delaware,Kent County,10001
+Delaware,Kent County,10001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+Florida,Bradford County,12007
+Florida,Broward County,12011
+Florida,Collier County,12021
+Florida,Duval County,12031
+Florida,Duval County,12031
+Florida,Duval County,12031
+Florida,Hillsborough County,12057
+Florida,Hillsborough County,12057
+Florida,Lake County,12069
+Florida,Leon County,12073
+Florida,Manatee County,12081
+Florida,Marion County,12083
+Florida,Miami-Dade County,12086
+Florida,Miami-Dade County,12086
+Florida,Miami-Dade County,12086
+Florida,Orange County,12095
+Florida,Orange County,12095
+Florida,Orange County,12095
+Florida,Palm Beach County,12099
+Florida,Palm Beach County,12099
+Florida,Palm Beach County,12099
+Florida,Sarasota County,12115
+Florida,Seminole County,12117
+Florida,St. Johns County,12109
+Georgia,Clarke County,13059
+Georgia,Clarke County,13059
+Georgia,Clarke County,13059
+Georgia,Clarke County,13059
+Georgia,Clarke County,13059
+Georgia,Cobb County,13067
+Georgia,Cobb County,13067
+Georgia,Columbia County,13073
+Georgia,DeKalb County,13089
+Georgia,DeKalb County,13089
+Georgia,DeKalb County,13089
+Georgia,DeKalb County,13089
+Georgia,DeKalb County,13089
+Georgia,DeKalb County,13089
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Gwinnett County,13135
+Georgia,Oglethorpe County,13221
+Georgia,Paulding County,13223
+Hawaii,Hawaii County,15001
+Illinois,Champaign County,17019
+Illinois,Champaign County,17019
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,DuPage County,17043
+Illinois,Kane County,17089
+Illinois,Kane County,17089
+Illinois,Lake County,17097
+Illinois,Lake County,17097
+Illinois,McHenry County,17111
+Illinois,Peoria County,17143
+Indiana,Clark County,18019
+Indiana,DeKalb County,18033
+Indiana,Hamilton County,18057
+Indiana,Jefferson County,18077
+Indiana,Lake County,18089
+Indiana,Marion County,18097
+Indiana,Marion County,18097
+Indiana,Monroe County,18105
+Indiana,Monroe County,18105
+Indiana,Tippecanoe County,18157
+Indiana,Tippecanoe County,18157
+Indiana,Tippecanoe County,18157
+Indiana,Vanderburgh County,18163
+Iowa,Dubuque County,19061
+Iowa,Linn County,19113
+Iowa,Pottawattamie County,19155
+Kansas,Douglas County,20045
+Kansas,Douglas County,20045
+Kansas,Douglas County,20045
+Kansas,Finney County,20055
+Kansas,Johnson County,20091
+Kansas,Johnson County,20091
+Kansas,Johnson County,20091
+Kansas,Johnson County,20091
+Kansas,Leavenworth County,20103
+Kansas,Leavenworth County,20103
+Kansas,Leavenworth County,20103
+Kansas,Leavenworth County,20103
+Kansas,Sedgwick County,20173
+Kansas,Sedgwick County,20173
+Kansas,Sedgwick County,20173
+Kansas,Sedgwick County,20173
+Kentucky,Woodford County,21239
+Kentucky,Woodford County,21239
+Louisiana,Caddo Parish,22017
+Louisiana,St. Tammany Parish,22103
+Maine,Cumberland County,23005
+Maine,Cumberland County,23005
+Maine,Cumberland County,23005
+Maine,York County,23031
+Maryland,Anne Arundel County,24003
+Maryland,Anne Arundel County,24003
+Maryland,Baltimore city,24510
+Maryland,Baltimore city,24510
+Maryland,Baltimore city,24510
+Maryland,Baltimore County,24005
+Maryland,Baltimore County,24005
+Maryland,Baltimore County,24005
+Maryland,Carroll County,24013
+Maryland,Carroll County,24013
+Maryland,Carroll County,24013
+Maryland,Carroll County,24013
+Maryland,Carroll County,24013
+Maryland,Cecil County,24015
+Maryland,Harford County,24025
+Maryland,Howard County,24027
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Prince George's County,24033
+Maryland,Wicomico County,24045
+Massachusetts,Barnstable County,25001
+Massachusetts,Barnstable County,25001
+Massachusetts,Berkshire County,25003
+Massachusetts,Bristol County,25005
+Massachusetts,Bristol County,25005
+Massachusetts,Dukes County,25007
+Massachusetts,Essex County,25009
+Massachusetts,Essex County,25009
+Massachusetts,Essex County,25009
+Massachusetts,Essex County,25009
+Massachusetts,Hampden County,25013
+Massachusetts,Hampden County,25013
+Massachusetts,Hampshire County,25015
+Massachusetts,Hampshire County,25015
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Nantucket County,25019
+Massachusetts,Nantucket County,25019
+Massachusetts,Norfolk County,25021
+Massachusetts,Norfolk County,25021
+Massachusetts,Norfolk County,25021
+Massachusetts,Norfolk County,25021
+Massachusetts,Norfolk County,25021
+Massachusetts,Plymouth County,25023
+Massachusetts,Plymouth County,25023
+Massachusetts,Plymouth County,25023
+Massachusetts,Plymouth County,25023
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Worcester County,25027
+Massachusetts,Worcester County,25027
+Massachusetts,Worcester County,25027
+Michigan,Kent County,26081
+Michigan,Oakland County,26125
+Michigan,Oakland County,26125
+Michigan,Washtenaw County,26161
+Michigan,Washtenaw County,26161
+Michigan,Washtenaw County,26161
+Michigan,Washtenaw County,26161
+Michigan,Wayne County,26163
+Minnesota,Carver County,27019
+Minnesota,Dakota County,27037
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Olmsted County,27109
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Missouri,Boone County,29019
+Missouri,Boone County,29019
+Missouri,Boone County,29019
+Missouri,Cape Girardeau County,29031
+Missouri,St. Charles County,29183
+Missouri,St. Francois County,29187
+Missouri,St. Louis city,29510
+Missouri,St. Louis city,29510
+Missouri,St. Louis city,29510
+Missouri,St. Louis city,29510
+Missouri,St. Louis County,29189
+Montana,Missoula County,30063
+Montana,Missoula County,30063
+Montana,Missoula County,30063
+Nebraska,Adams County,31001
+Nebraska,Adams County,31001
+Nebraska,Douglas County,31055
+Nebraska,Douglas County,31055
+Nebraska,Douglas County,31055
+Nebraska,Lancaster County,31109
+Nebraska,Lincoln County,31111
+Nevada,Churchill County,32001
+Nevada,Clark County,32003
+Nevada,Clark County,32003
+Nevada,Washoe County,32031
+New Hampshire,Grafton County,33009
+New Hampshire,Grafton County,33009
+New Hampshire,Hillsborough County,33011
+New Jersey,Bergen County,34003
+New Jersey,Burlington County,34005
+New Jersey,Burlington County,34005
+New Jersey,Cape May County,34009
+New Jersey,Essex County,34013
+New Jersey,Essex County,34013
+New Jersey,Essex County,34013
+New Jersey,Essex County,34013
+New Jersey,Hudson County,34017
+New Jersey,Hudson County,34017
+New Jersey,Monmouth County,34025
+New Jersey,Somerset County,34035
+New Mexico,Bernalillo County,35001
+New Mexico,Bernalillo County,35001
+New Mexico,Bernalillo County,35001
+New Mexico,Santa Fe County,35049
+New York,Albany County,36001
+New York,Albany County,36001
+New York,Cattaraugus County,36009
+New York,Erie County,36029
+New York,Kings County,36047
+New York,Madison County,36053
+New York,Monroe County,36055
+New York,New York County,36061
+New York,New York County,36061
+New York,New York County,36061
+New York,New York County,36061
+New York,Orange County,36071
+New York,Suffolk County,36103
+New York,Tompkins County,36109
+New York,Tompkins County,36109
+North Carolina,Cabarrus County,37025
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Forsyth County,37067
+North Carolina,Forsyth County,37067
+North Carolina,Forsyth County,37067
+North Carolina,Forsyth County,37067
+North Carolina,Guilford County,37081
+North Carolina,Guilford County,37081
+North Carolina,Guilford County,37081
+North Carolina,Mecklenburg County,37119
+North Carolina,Mecklenburg County,37119
+North Carolina,Mecklenburg County,37119
+North Carolina,Mecklenburg County,37119
+North Carolina,Mecklenburg County,37119
+North Carolina,Montgomery County,37123
+North Carolina,Onslow County,37133
+North Carolina,Union County,37179
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+Ohio,Cuyahoga County,39035
+Ohio,Franklin County,39049
+Ohio,Franklin County,39049
+Ohio,Franklin County,39049
+Ohio,Franklin County,39049
+Ohio,Franklin County,39049
+Ohio,Franklin County,39049
+Ohio,Hamilton County,39061
+Ohio,Jefferson County,39081
+Ohio,Licking County,39089
+Ohio,Lorain County,39093
+Ohio,Mahoning County,39099
+Ohio,Portage County,39133
+Ohio,Summit County,39153
+Ohio,Summit County,39153
+Ohio,Trumbull County,39155
+Ohio,Trumbull County,39155
+Ohio,Trumbull County,39155
+Ohio,Trumbull County,39155
+Ohio,Trumbull County,39155
+Ohio,Warren County,39165
+Oklahoma,Canadian County,40017
+Oklahoma,Carter County,40019
+Oklahoma,Cleveland County,40027
+Oklahoma,Cleveland County,40027
+Oklahoma,Cleveland County,40027
+Oklahoma,Cleveland County,40027
+Oklahoma,Creek County,40037
+Oklahoma,Delaware County,40041
+Oklahoma,Kingfisher County,40073
+Oklahoma,McClain County,40087
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
+Oklahoma,Payne County,40119
+Oklahoma,Pontotoc County,40123
+Oklahoma,Tulsa County,40143
+Oklahoma,Tulsa County,40143
+Oklahoma,Tulsa County,40143
+Oklahoma,Tulsa County,40143
+Oregon,Clackamas County,41005
+Oregon,Lincoln County,41041
+Oregon,Lincoln County,41041
+Oregon,Multnomah County,41051
+Oregon,Multnomah County,41051
+Oregon,Washington County,41067
+Oregon,Washington County,41067
+Oregon,Washington County,41067
+Pennsylvania,Adams County,42001
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Armstrong County,42005
+Pennsylvania,Armstrong County,42005
+Pennsylvania,Armstrong County,42005
+Pennsylvania,Beaver County,42007
+Pennsylvania,Berks County,42011
+Pennsylvania,Chester County,42029
+Pennsylvania,Chester County,42029
+Pennsylvania,Chester County,42029
+Pennsylvania,Columbia County,42037
+Pennsylvania,Delaware County,42045
+Pennsylvania,Delaware County,42045
+Pennsylvania,Huntingdon County,42061
+Pennsylvania,Lackawanna County,42069
+Pennsylvania,Mercer County,42085
+Pennsylvania,Mifflin County,42087
+Pennsylvania,Montgomery County,42091
+Pennsylvania,Northampton County,42095
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Union County,42119
+Pennsylvania,Warren County,42123
+Pennsylvania,Washington County,42125
+Pennsylvania,Washington County,42125
+Pennsylvania,Washington County,42125
+Pennsylvania,Washington County,42125
+Pennsylvania,Washington County,42125
+Pennsylvania,Westmoreland County,42129
+Pennsylvania,Westmoreland County,42129
+Pennsylvania,Westmoreland County,42129
+Rhode Island,Providence County,44007
+South Carolina,Beaufort County,45013
+South Carolina,Beaufort County,45013
+South Carolina,Beaufort County,45013
+South Carolina,Charleston County,45019
+South Carolina,Charleston County,45019
+South Carolina,Charleston County,45019
+South Carolina,Dorchester County,45035
+South Carolina,Greenville County,45045
+South Carolina,Lexington County,45063
+South Carolina,Newberry County,45071
+South Carolina,Sumter County,45085
+South Dakota,Lincoln County,46083
+Tennessee,Blount County,47009
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Greene County,47059
+Tennessee,Greene County,47059
+Tennessee,Greene County,47059
+Tennessee,Greene County,47059
+Tennessee,Knox County,47093
+Tennessee,Knox County,47093
+Tennessee,Knox County,47093
+Tennessee,Rutherford County,47149
+Tennessee,Shelby County,47157
+Tennessee,Sullivan County,47163
+Tennessee,Williamson County,47187
+Texas,Bexar County,48029
+Texas,Bexar County,48029
+Texas,Bexar County,48029
+Texas,Brazoria County,48039
+Texas,Collin County,48085
+Texas,Comal County,48091
+Texas,Dallas County,48113
+Texas,Denton County,48121
+Texas,Fort Bend County,48157
+Texas,Harris County,48201
+Texas,Harris County,48201
+Texas,Harris County,48201
+Texas,Harris County,48201
+Texas,Harris County,48201
+Texas,Harris County,48201
+Texas,Harris County,48201
+Texas,Lubbock County,48303
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Utah,Salt Lake County,49035
+Utah,Salt Lake County,49035
+Utah,Salt Lake County,49035
+Utah,Salt Lake County,49035
+Utah,Summit County,49043
+Vermont,Chittenden County,50007
+Vermont,Chittenden County,50007
+Vermont,Chittenden County,50007
+Vermont,Chittenden County,50007
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Arlington County,51013
+Virginia,Arlington County,51013
+Virginia,Arlington County,51013
+Virginia,Augusta County,51015
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Chesterfield County,51041
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fluvanna County,51065
+Virginia,Franklin County,51067
+Virginia,Franklin County,51067
+Virginia,Franklin County,51067
+Virginia,Giles County,51071
+Virginia,Goochland County,51075
+Virginia,Greene County,51079
+Virginia,Greene County,51079
+Virginia,Greene County,51079
+Virginia,Henrico County,51087
+Virginia,Isle of Wight County,51093
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Louisa County,51109
+Virginia,Louisa County,51109
+Virginia,Madison County,51113
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Nelson County,51125
+Virginia,Nelson County,51125
+Virginia,Nelson County,51125
+Virginia,Nelson County,51125
+Virginia,Poquoson city,51735
+Virginia,Prince William County,51153
+Virginia,Prince William County,51153
+Virginia,Pulaski County,51155
+Virginia,Richmond city,51760
+Virginia,Roanoke city,51770
+Virginia,Roanoke County,51161
+Virginia,Roanoke County,51161
+Virginia,Spotsylvania County,51177
+Virginia,Virginia Beach city,51810
+Virginia,Washington County,51191
+Virginia,Washington County,51191
+Virginia,Washington County,51191
+Virginia,Waynesboro city,51820
+Virginia,Wythe County,51197
+Washington,Benton County,53005
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,Kitsap County,53035
+Washington,Pierce County,53053
+Washington,Snohomish County,53061
+Washington,Snohomish County,53061
+Washington,Snohomish County,53061
+Washington,Snohomish County,53061
+Washington,Snohomish County,53061
+Washington,Whatcom County,53073
+West Virginia,Berkeley County,54003
+West Virginia,Berkeley County,54003
+West Virginia,Brooke County,54009
+West Virginia,Greenbrier County,54025
+West Virginia,Hancock County,54029
+West Virginia,Marshall County,54051
+West Virginia,Ohio County,54069
+West Virginia,Pocahontas County,54075
+West Virginia,Pocahontas County,54075
+West Virginia,Putnam County,54079
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Portage County,55097
