@@ -10,8 +10,8 @@ function drawGraph(values) {
   const color = function (x) {
     if (x == 0){ return "none"; }
     if (x == 1){ return "#eaab00"; }
-    if (x == 2){ return "#175e54"; }
-    if (x == 3){ return "#00EAAB"; }
+    if (x == 2){ return "#ffe607"; }
+    if (x == 3){ return "#ff0000"; }
   }
   
   Date.prototype.to_string = function ()  {
@@ -292,7 +292,7 @@ function drawGraph(values) {
   .data(counties)
   .join("path")      
     .attr("fill", d => color(d.data.status))
-    .attr("opacity", 0.8)
+    .attr("opacity", d => d.data.status == 3 ? 0.4 : 0.8)
     .attr("d", path)
 
   // code to select a state and outline it in green 

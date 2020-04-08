@@ -197,7 +197,8 @@ img {
 }
 
 .status-3 {
-  color: #00eaab;
+  color: #ff0000;
+  opacity: 0.4;
 }
 
 h3 {
