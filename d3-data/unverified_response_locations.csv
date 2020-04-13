@@ -1,8 +1,16 @@
 location_1,location_2
+Alabama,Crenshaw County
+Alabama,Jefferson County
 Alabama,Jefferson County
 Alabama,Madison County
 Alabama,Madison County
+Alabama,Tuscaloosa County
+Alaska,Aleutians East Borough
 Alaska,Aleutians West Census Area
+Alaska,Anchorage Municipality
+Alaska,Anchorage Municipality
+Arizona,Coconino County
+Arizona,Gila County
 Arizona,Maricopa County
 Arizona,Maricopa County
 Arizona,Maricopa County
@@ -11,9 +19,22 @@ Arizona,Maricopa County
 Arizona,Maricopa County
 Arizona,Maricopa County
 Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Maricopa County
+Arizona,Mohave County
 Arizona,Pima County
 Arizona,Pima County
 Arizona,Pima County
+Arizona,Pima County
+Arizona,Yavapai County
+Arizona,Yuma County
 Arkansas,Ashley County
 Arkansas,Bradley County
 Arkansas,Polk County
@@ -36,6 +57,26 @@ California,Alameda County
 California,Alameda County
 California,Alameda County
 California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Alameda County
+California,Amador County
+California,Colusa County
+California,Contra Costa County
+California,Contra Costa County
+California,Contra Costa County
+California,Contra Costa County
 California,Contra Costa County
 California,Contra Costa County
 California,Contra Costa County
@@ -53,6 +94,7 @@ California,Humboldt County
 California,Humboldt County
 California,Humboldt County
 California,Humboldt County
+California,Humboldt County
 California,Los Angeles County
 California,Los Angeles County
 California,Los Angeles County
@@ -81,11 +123,67 @@ California,Los Angeles County
 California,Los Angeles County
 California,Los Angeles County
 California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Los Angeles County
+California,Marin County
 California,Marin County
 California,Marin County
 California,Marin County
 California,Mendocino County
 California,Merced County
+California,Monterey County
+California,Napa County
+California,Napa County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
+California,Orange County
 California,Orange County
 California,Orange County
 California,Orange County
@@ -102,6 +200,10 @@ California,Riverside County
 California,Riverside County
 California,Riverside County
 California,Riverside County
+California,Riverside County
+California,Riverside County
+California,Riverside County
+California,Sacramento County
 California,Sacramento County
 California,Sacramento County
 California,Sacramento County
@@ -118,6 +220,20 @@ California,San Diego County
 California,San Diego County
 California,San Diego County
 California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
+California,San Diego County
 California,San Francisco County
 California,San Francisco County
 California,San Francisco County
@@ -135,6 +251,14 @@ California,San Francisco County
 California,San Francisco County
 California,San Francisco County
 California,San Francisco County
+California,San Francisco County
+California,San Francisco County
+California,San Francisco County
+California,San Francisco County
+California,San Francisco County
+California,San Francisco County
+California,San Francisco County
+California,San Luis Obispo County
 California,San Mateo County
 California,San Mateo County
 California,San Mateo County
@@ -151,6 +275,13 @@ California,San Mateo County
 California,San Mateo County
 California,San Mateo County
 California,San Mateo County
+California,San Mateo County
+California,San Mateo County
+California,San Mateo County
+California,San Mateo County
+California,San Mateo County
+California,Santa Barbara County
+California,Santa Barbara County
 California,Santa Barbara County
 California,Santa Barbara County
 California,Santa Clara County
@@ -183,30 +314,100 @@ California,Santa Clara County
 California,Santa Clara County
 California,Santa Clara County
 California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
+California,Santa Clara County
 California,Santa Cruz County
 California,Santa Cruz County
 California,Santa Cruz County
+California,Santa Cruz County
+California,Santa Cruz County
+California,Santa Cruz County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
+California,Shasta County
 California,Solano County
 California,Solano County
+California,Solano County
+California,Solano County
+California,Sonoma County
 California,Sonoma County
 California,Sonoma County
 California,Sonoma County
 California,Ventura County
+California,Yolo County
+California,Yolo County
 Colorado,Adams County
+Colorado,Adams County
+Colorado,Adams County
+Colorado,Arapahoe County
+Colorado,Arapahoe County
 Colorado,Arapahoe County
 Colorado,Boulder County
 Colorado,Boulder County
+Colorado,Boulder County
+Colorado,Boulder County
+Colorado,Denver County
+Colorado,Denver County
+Colorado,Denver County
 Colorado,Denver County
 Colorado,Denver County
 Colorado,Garfield County
+Colorado,Jefferson County
 Colorado,Larimer County
 Colorado,Larimer County
 Colorado,Larimer County
 Colorado,Larimer County
+Colorado,Larimer County
+Colorado,Larimer County
+Colorado,Larimer County
+Colorado,Larimer County
+Colorado,Larimer County
+Colorado,Larimer County
+Colorado,Park County
 Colorado,Pitkin County
+Colorado,Routt County
+Colorado,Routt County
+Colorado,Summit County
 Connecticut,Fairfield County
+Connecticut,Fairfield County
+Connecticut,Fairfield County
+Connecticut,Litchfield County
+Connecticut,New Haven County
+Connecticut,New Haven County
+Connecticut,New Haven County
 Delaware,Kent County
 Delaware,Kent County
+Delaware,Sussex County
 District of Columbia,District of Columbia
 District of Columbia,District of Columbia
 District of Columbia,District of Columbia
@@ -214,35 +415,55 @@ District of Columbia,District of Columbia
 District of Columbia,District of Columbia
 District of Columbia,District of Columbia
 District of Columbia,District of Columbia
+District of Columbia,District of Columbia
+District of Columbia,District of Columbia
+District of Columbia,District of Columbia
+Florida,Alachua County
 Florida,Bradford County
 Florida,Broward County
+Florida,Broward County
+Florida,Broward County
+Florida,Collier County
 Florida,Collier County
 Florida,Duval County
 Florida,Duval County
 Florida,Duval County
+Florida,Flagler County
+Florida,Hillsborough County
+Florida,Hillsborough County
 Florida,Hillsborough County
 Florida,Hillsborough County
 Florida,Lake County
+Florida,Lee County
+Florida,Leon County
 Florida,Leon County
 Florida,Manatee County
 Florida,Marion County
 Florida,Miami-Dade County
 Florida,Miami-Dade County
 Florida,Miami-Dade County
+Florida,Miami-Dade County
+Florida,Miami-Dade County
+Florida,Orange County
 Florida,Orange County
 Florida,Orange County
 Florida,Orange County
 Florida,Palm Beach County
 Florida,Palm Beach County
 Florida,Palm Beach County
+Florida,Palm Beach County
+Florida,Pinellas County
 Florida,Sarasota County
 Florida,Seminole County
 Florida,St. Johns County
+Georgia,Chatham County
 Georgia,Clarke County
 Georgia,Clarke County
 Georgia,Clarke County
 Georgia,Clarke County
 Georgia,Clarke County
+Georgia,Clarke County
+Georgia,Cobb County
 Georgia,Cobb County
 Georgia,Cobb County
 Georgia,Columbia County
@@ -252,6 +473,11 @@ Georgia,DeKalb County
 Georgia,DeKalb County
 Georgia,DeKalb County
 Georgia,DeKalb County
+Georgia,DeKalb County
+Georgia,Fulton County
+Georgia,Fulton County
+Georgia,Fulton County
+Georgia,Fulton County
 Georgia,Fulton County
 Georgia,Fulton County
 Georgia,Fulton County
@@ -259,11 +485,34 @@ Georgia,Fulton County
 Georgia,Fulton County
 Georgia,Fulton County
 Georgia,Gwinnett County
+Georgia,Habersham County
 Georgia,Oglethorpe County
 Georgia,Paulding County
 Hawaii,Hawaii County
+Illinois,Adams County
 Illinois,Champaign County
 Illinois,Champaign County
+Illinois,Coles County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
+Illinois,Cook County
 Illinois,Cook County
 Illinois,Cook County
 Illinois,Cook County
@@ -279,17 +528,33 @@ Illinois,Cook County
 Illinois,Cook County
 Illinois,Cook County
 Illinois,DuPage County
+Illinois,DuPage County
 Illinois,Kane County
 Illinois,Kane County
 Illinois,Lake County
 Illinois,Lake County
+Illinois,Lake County
+Illinois,Madison County
 Illinois,McHenry County
 Illinois,Peoria County
+Illinois,Will County
+Indiana,Allen County
+Indiana,Allen County
+Indiana,Allen County
+Indiana,Allen County
+Indiana,Allen County
+Indiana,Allen County
 Indiana,Clark County
 Indiana,DeKalb County
 Indiana,Hamilton County
+Indiana,Hamilton County
+Indiana,Hamilton County
+Indiana,Jackson County
 Indiana,Jefferson County
 Indiana,Lake County
+Indiana,Lake County
+Indiana,Marion County
+Indiana,Marion County
 Indiana,Marion County
 Indiana,Marion County
 Indiana,Monroe County
@@ -301,6 +566,8 @@ Indiana,Vanderburgh County
 Iowa,Dubuque County
 Iowa,Linn County
 Iowa,Pottawattamie County
+Iowa,Washington County
+Kansas,Barton County
 Kansas,Douglas County
 Kansas,Douglas County
 Kansas,Douglas County
@@ -309,46 +576,92 @@ Kansas,Johnson County
 Kansas,Johnson County
 Kansas,Johnson County
 Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
+Kansas,Johnson County
 Kansas,Leavenworth County
 Kansas,Leavenworth County
 Kansas,Leavenworth County
 Kansas,Leavenworth County
+Kansas,Miami County
 Kansas,Sedgwick County
 Kansas,Sedgwick County
 Kansas,Sedgwick County
 Kansas,Sedgwick County
+Kansas,Sedgwick County
+Kansas,Shawnee County
+Kansas,Wyandotte County
+Kentucky,Campbell County
+Kentucky,Daviess County
+Kentucky,Jefferson County
+Kentucky,Jefferson County
+Kentucky,Kenton County
+Kentucky,McCracken County
 Kentucky,Woodford County
 Kentucky,Woodford County
+Louisiana,Caddo Parish
 Louisiana,Caddo Parish
 Louisiana,St. Tammany Parish
 Maine,Cumberland County
 Maine,Cumberland County
 Maine,Cumberland County
+Maine,Cumberland County
+Maine,Cumberland County
+Maine,Knox County
 Maine,York County
+Maryland,Allegany County
 Maryland,Anne Arundel County
 Maryland,Anne Arundel County
 Maryland,Baltimore city
 Maryland,Baltimore city
 Maryland,Baltimore city
+Maryland,Baltimore city
+Maryland,Baltimore city
 Maryland,Baltimore County
 Maryland,Baltimore County
 Maryland,Baltimore County
+Maryland,Baltimore County
+Maryland,Baltimore County
+Maryland,Carroll County
 Maryland,Carroll County
 Maryland,Carroll County
 Maryland,Carroll County
 Maryland,Carroll County
 Maryland,Carroll County
 Maryland,Cecil County
+Maryland,Cecil County
+Maryland,Frederick County
+Maryland,Frederick County
 Maryland,Harford County
+Maryland,Harford County
+Maryland,Howard County
 Maryland,Howard County
 Maryland,Montgomery County
 Maryland,Montgomery County
 Maryland,Montgomery County
 Maryland,Montgomery County
+Maryland,Montgomery County
+Maryland,Montgomery County
 Maryland,Prince George's County
+Maryland,Talbot County
 Maryland,Wicomico County
+Maryland,Worcester County
 Massachusetts,Barnstable County
 Massachusetts,Barnstable County
+Massachusetts,Barnstable County
+Massachusetts,Berkshire County
 Massachusetts,Berkshire County
 Massachusetts,Bristol County
 Massachusetts,Bristol County
@@ -357,10 +670,48 @@ Massachusetts,Essex County
 Massachusetts,Essex County
 Massachusetts,Essex County
 Massachusetts,Essex County
+Massachusetts,Essex County
+Massachusetts,Essex County
+Massachusetts,Essex County
+Massachusetts,Essex County
+Massachusetts,Essex County
+Massachusetts,Hampden County
+Massachusetts,Hampden County
 Massachusetts,Hampden County
 Massachusetts,Hampden County
 Massachusetts,Hampshire County
 Massachusetts,Hampshire County
+Massachusetts,Hampshire County
+Massachusetts,Hampshire County
+Massachusetts,Hampshire County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
+Massachusetts,Middlesex County
 Massachusetts,Middlesex County
 Massachusetts,Middlesex County
 Massachusetts,Middlesex County
@@ -403,10 +754,29 @@ Massachusetts,Norfolk County
 Massachusetts,Norfolk County
 Massachusetts,Norfolk County
 Massachusetts,Norfolk County
+Massachusetts,Norfolk County
+Massachusetts,Norfolk County
+Massachusetts,Norfolk County
+Massachusetts,Norfolk County
 Massachusetts,Plymouth County
 Massachusetts,Plymouth County
 Massachusetts,Plymouth County
 Massachusetts,Plymouth County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
+Massachusetts,Suffolk County
 Massachusetts,Suffolk County
 Massachusetts,Suffolk County
 Massachusetts,Suffolk County
@@ -416,53 +786,138 @@ Massachusetts,Suffolk County
 Massachusetts,Worcester County
 Massachusetts,Worcester County
 Massachusetts,Worcester County
+Michigan,Delta County
+Michigan,Eaton County
+Michigan,Ingham County
 Michigan,Kent County
+Michigan,Kent County
+Michigan,Lapeer County
+Michigan,Macomb County
 Michigan,Oakland County
 Michigan,Oakland County
+Michigan,Oakland County
+Michigan,Oakland County
+Michigan,Ottawa County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
+Michigan,Washtenaw County
 Michigan,Washtenaw County
 Michigan,Washtenaw County
 Michigan,Washtenaw County
 Michigan,Washtenaw County
 Michigan,Wayne County
+Michigan,Wayne County
+Minnesota,Anoka County
 Minnesota,Carver County
+Minnesota,Dakota County
 Minnesota,Dakota County
 Minnesota,Hennepin County
 Minnesota,Hennepin County
 Minnesota,Hennepin County
 Minnesota,Hennepin County
 Minnesota,Hennepin County
+Minnesota,Hennepin County
+Minnesota,Hennepin County
+Minnesota,Hennepin County
+Minnesota,Hennepin County
+Minnesota,Hennepin County
+Minnesota,Hennepin County
+Minnesota,Olmsted County
 Minnesota,Olmsted County
 Minnesota,Ramsey County
 Minnesota,Ramsey County
+Minnesota,Ramsey County
+Minnesota,Renville County
+Minnesota,Scott County
+Mississippi,DeSoto County
+Mississippi,DeSoto County
+Missouri,Boone County
 Missouri,Boone County
 Missouri,Boone County
 Missouri,Boone County
 Missouri,Cape Girardeau County
+Missouri,Jackson County
+Missouri,Jackson County
+Missouri,Jackson County
+Missouri,Jackson County
+Missouri,Jackson County
+Missouri,Platte County
+Missouri,St. Charles County
+Missouri,St. Charles County
+Missouri,St. Charles County
 Missouri,St. Charles County
 Missouri,St. Francois County
 Missouri,St. Louis city
 Missouri,St. Louis city
 Missouri,St. Louis city
 Missouri,St. Louis city
+Missouri,St. Louis city
 Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Missouri,St. Louis County
+Montana,Flathead County
+Montana,Gallatin County
+Montana,Lake County
 Montana,Missoula County
 Montana,Missoula County
 Montana,Missoula County
+Montana,Ravalli County
 Nebraska,Adams County
 Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Adams County
+Nebraska,Buffalo County
+Nebraska,Clay County
 Nebraska,Douglas County
 Nebraska,Douglas County
 Nebraska,Douglas County
+Nebraska,Hall County
+Nebraska,Lancaster County
+Nebraska,Lancaster County
+Nebraska,Lancaster County
 Nebraska,Lancaster County
 Nebraska,Lincoln County
 Nevada,Churchill County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
+Nevada,Clark County
 Nevada,Clark County
 Nevada,Clark County
 Nevada,Washoe County
 New Hampshire,Grafton County
 New Hampshire,Grafton County
 New Hampshire,Hillsborough County
+New Hampshire,Hillsborough County
+New Hampshire,Rockingham County
+New Hampshire,Strafford County
+New Jersey,Atlantic County
 New Jersey,Bergen County
+New Jersey,Bergen County
+New Jersey,Burlington County
 New Jersey,Burlington County
 New Jersey,Burlington County
 New Jersey,Cape May County
@@ -470,32 +925,73 @@ New Jersey,Essex County
 New Jersey,Essex County
 New Jersey,Essex County
 New Jersey,Essex County
+New Jersey,Gloucester County
 New Jersey,Hudson County
 New Jersey,Hudson County
+New Jersey,Hudson County
+New Jersey,Hudson County
+New Jersey,Mercer County
+New Jersey,Middlesex County
 New Jersey,Monmouth County
+New Jersey,Morris County
+New Jersey,Somerset County
 New Jersey,Somerset County
 New Mexico,Bernalillo County
 New Mexico,Bernalillo County
 New Mexico,Bernalillo County
 New Mexico,Santa Fe County
+New Mexico,Santa Fe County
+New York,Albany County
 New York,Albany County
 New York,Albany County
 New York,Cattaraugus County
+New York,Chautauqua County
+New York,Erie County
+New York,Erie County
 New York,Erie County
 New York,Kings County
+New York,Kings County
+New York,Kings County
 New York,Madison County
+New York,Monroe County
 New York,Monroe County
 New York,New York County
 New York,New York County
 New York,New York County
 New York,New York County
+New York,New York County
+New York,New York County
+New York,Onondaga County
+New York,Onondaga County
+New York,Onondaga County
+New York,Onondaga County
+New York,Onondaga County
 New York,Orange County
+New York,Oswego County
+New York,Oswego County
+New York,Oswego County
+New York,Oswego County
+New York,Oswego County
+New York,Oswego County
+New York,Queens County
+New York,Queens County
+New York,Queens County
 New York,Suffolk County
 New York,Tompkins County
 New York,Tompkins County
+New York,Tompkins County
+New York,Ulster County
+New York,Westchester County
+New York,Westchester County
+North Carolina,Buncombe County
 North Carolina,Cabarrus County
+North Carolina,Cumberland County
+North Carolina,Davidson County
 North Carolina,Durham County
 North Carolina,Durham County
+North Carolina,Durham County
+North Carolina,Forsyth County
+North Carolina,Forsyth County
 North Carolina,Forsyth County
 North Carolina,Forsyth County
 North Carolina,Forsyth County
@@ -503,6 +999,9 @@ North Carolina,Forsyth County
 North Carolina,Guilford County
 North Carolina,Guilford County
 North Carolina,Guilford County
+North Carolina,Guilford County
+North Carolina,Guilford County
+North Carolina,Mecklenburg County
 North Carolina,Mecklenburg County
 North Carolina,Mecklenburg County
 North Carolina,Mecklenburg County
@@ -510,6 +1009,9 @@ North Carolina,Mecklenburg County
 North Carolina,Mecklenburg County
 North Carolina,Montgomery County
 North Carolina,Onslow County
+North Carolina,Orange County
+North Carolina,Orange County
+North Carolina,Randolph County
 North Carolina,Union County
 North Carolina,Wake County
 North Carolina,Wake County
@@ -519,13 +1021,32 @@ North Carolina,Wake County
 North Carolina,Wake County
 North Carolina,Wake County
 North Carolina,Wake County
+North Carolina,Wake County
+North Carolina,Wake County
+North Carolina,Wake County
+North Carolina,Wake County
+North Dakota,Morton County
+North Dakota,Ward County
+North Dakota,Ward County
 Ohio,Cuyahoga County
+Ohio,Cuyahoga County
+Ohio,Cuyahoga County
+Ohio,Cuyahoga County
+Ohio,Delaware County
 Ohio,Franklin County
 Ohio,Franklin County
 Ohio,Franklin County
 Ohio,Franklin County
 Ohio,Franklin County
 Ohio,Franklin County
+Ohio,Franklin County
+Ohio,Franklin County
+Ohio,Franklin County
+Ohio,Franklin County
+Ohio,Hamilton County
+Ohio,Hamilton County
+Ohio,Hamilton County
+Ohio,Hamilton County
 Ohio,Hamilton County
 Ohio,Jefferson County
 Ohio,Licking County
@@ -534,12 +1055,17 @@ Ohio,Mahoning County
 Ohio,Portage County
 Ohio,Summit County
 Ohio,Summit County
+Ohio,Summit County
+Ohio,Trumbull County
 Ohio,Trumbull County
 Ohio,Trumbull County
 Ohio,Trumbull County
 Ohio,Trumbull County
 Ohio,Trumbull County
 Ohio,Warren County
+Ohio,Warren County
+Ohio,Warren County
+Ohio,Wood County
 Oklahoma,Canadian County
 Oklahoma,Carter County
 Oklahoma,Cleveland County
@@ -550,6 +1076,8 @@ Oklahoma,Creek County
 Oklahoma,Delaware County
 Oklahoma,Kingfisher County
 Oklahoma,McClain County
+Oklahoma,Muskogee County
+Oklahoma,Oklahoma County
 Oklahoma,Oklahoma County
 Oklahoma,Oklahoma County
 Oklahoma,Oklahoma County
@@ -565,11 +1093,46 @@ Oklahoma,Tulsa County
 Oklahoma,Tulsa County
 Oklahoma,Tulsa County
 Oklahoma,Tulsa County
+Oklahoma,Tulsa County
+Oklahoma,Tulsa County
+Oklahoma,Tulsa County
+Oregon,Benton County
 Oregon,Clackamas County
+Oregon,Clackamas County
+Oregon,Clackamas County
+Oregon,Lane County
+Oregon,Lane County
 Oregon,Lincoln County
 Oregon,Lincoln County
+Oregon,Marion County
 Oregon,Multnomah County
 Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Multnomah County
+Oregon,Washington County
+Oregon,Washington County
+Oregon,Washington County
+Oregon,Washington County
 Oregon,Washington County
 Oregon,Washington County
 Oregon,Washington County
@@ -617,23 +1180,56 @@ Pennsylvania,Allegheny County
 Pennsylvania,Allegheny County
 Pennsylvania,Allegheny County
 Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Allegheny County
+Pennsylvania,Armstrong County
+Pennsylvania,Armstrong County
 Pennsylvania,Armstrong County
 Pennsylvania,Armstrong County
 Pennsylvania,Armstrong County
 Pennsylvania,Beaver County
 Pennsylvania,Berks County
+Pennsylvania,Bucks County
+Pennsylvania,Butler County
+Pennsylvania,Cambria County
 Pennsylvania,Chester County
 Pennsylvania,Chester County
 Pennsylvania,Chester County
+Pennsylvania,Chester County
+Pennsylvania,Clarion County
+Pennsylvania,Clearfield County
 Pennsylvania,Columbia County
+Pennsylvania,Cumberland County
+Pennsylvania,Cumberland County
+Pennsylvania,Cumberland County
+Pennsylvania,Delaware County
 Pennsylvania,Delaware County
 Pennsylvania,Delaware County
 Pennsylvania,Huntingdon County
+Pennsylvania,Indiana County
+Pennsylvania,Jefferson County
 Pennsylvania,Lackawanna County
+Pennsylvania,Lawrence County
 Pennsylvania,Mercer County
 Pennsylvania,Mifflin County
 Pennsylvania,Montgomery County
+Pennsylvania,Montgomery County
 Pennsylvania,Northampton County
+Pennsylvania,Philadelphia County
+Pennsylvania,Philadelphia County
+Pennsylvania,Philadelphia County
+Pennsylvania,Philadelphia County
+Pennsylvania,Philadelphia County
 Pennsylvania,Philadelphia County
 Pennsylvania,Philadelphia County
 Pennsylvania,Union County
@@ -646,7 +1242,11 @@ Pennsylvania,Washington County
 Pennsylvania,Westmoreland County
 Pennsylvania,Westmoreland County
 Pennsylvania,Westmoreland County
+Pennsylvania,York County
 Rhode Island,Providence County
+Rhode Island,Providence County
+South Carolina,Aiken County
+South Carolina,Beaufort County
 South Carolina,Beaufort County
 South Carolina,Beaufort County
 South Carolina,Beaufort County
@@ -655,9 +1255,11 @@ South Carolina,Charleston County
 South Carolina,Charleston County
 South Carolina,Dorchester County
 South Carolina,Greenville County
+South Carolina,Horry County
 South Carolina,Lexington County
 South Carolina,Newberry County
 South Carolina,Sumter County
+South Carolina,York County
 South Dakota,Lincoln County
 Tennessee,Blount County
 Tennessee,Davidson County
@@ -667,25 +1269,43 @@ Tennessee,Davidson County
 Tennessee,Davidson County
 Tennessee,Davidson County
 Tennessee,Davidson County
+Tennessee,Davidson County
+Tennessee,Davidson County
+Tennessee,Davidson County
 Tennessee,Greene County
 Tennessee,Greene County
 Tennessee,Greene County
 Tennessee,Greene County
+Tennessee,Hamilton County
 Tennessee,Knox County
 Tennessee,Knox County
 Tennessee,Knox County
+Tennessee,Montgomery County
+Tennessee,Montgomery County
+Tennessee,Rutherford County
 Tennessee,Rutherford County
 Tennessee,Shelby County
 Tennessee,Sullivan County
+Tennessee,Washington County
+Tennessee,Washington County
+Tennessee,Washington County
 Tennessee,Williamson County
 Texas,Bexar County
 Texas,Bexar County
 Texas,Bexar County
+Texas,Bexar County
 Texas,Brazoria County
+Texas,Brazos County
+Texas,Collin County
+Texas,Collin County
 Texas,Collin County
 Texas,Comal County
+Texas,Comal County
+Texas,Dallas County
+Texas,Dallas County
 Texas,Dallas County
 Texas,Denton County
+Texas,El Paso County
 Texas,Fort Bend County
 Texas,Harris County
 Texas,Harris County
@@ -694,7 +1314,12 @@ Texas,Harris County
 Texas,Harris County
 Texas,Harris County
 Texas,Harris County
+Texas,Harris County
+Texas,Harris County
 Texas,Lubbock County
+Texas,Lubbock County
+Texas,Nueces County
+Texas,Tarrant County
 Texas,Tarrant County
 Texas,Tarrant County
 Texas,Tarrant County
@@ -709,11 +1334,21 @@ Texas,Travis County
 Texas,Travis County
 Texas,Travis County
 Texas,Travis County
+Texas,Travis County
+Texas,Travis County
+Texas,Travis County
+Texas,Williamson County
+Texas,Williamson County
+Texas,Williamson County
 Utah,Salt Lake County
 Utah,Salt Lake County
 Utah,Salt Lake County
 Utah,Salt Lake County
 Utah,Summit County
+Vermont,Addison County
+Vermont,Addison County
+Vermont,Addison County
+Vermont,Addison County
 Vermont,Chittenden County
 Vermont,Chittenden County
 Vermont,Chittenden County
@@ -786,10 +1421,69 @@ Virginia,Albemarle County
 Virginia,Albemarle County
 Virginia,Albemarle County
 Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Albemarle County
+Virginia,Alexandria city
+Virginia,Arlington County
+Virginia,Arlington County
+Virginia,Arlington County
+Virginia,Arlington County
+Virginia,Arlington County
 Virginia,Arlington County
 Virginia,Arlington County
 Virginia,Arlington County
 Virginia,Augusta County
+Virginia,Augusta County
+Virginia,Augusta County
+Virginia,Botetourt County
+Virginia,Botetourt County
+Virginia,Botetourt County
 Virginia,Charlottesville city
 Virginia,Charlottesville city
 Virginia,Charlottesville city
@@ -809,7 +1503,23 @@ Virginia,Charlottesville city
 Virginia,Charlottesville city
 Virginia,Charlottesville city
 Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Charlottesville city
+Virginia,Chesapeake city
 Virginia,Chesterfield County
+Virginia,Chesterfield County
+Virginia,Fairfax city
+Virginia,Fairfax County
+Virginia,Fairfax County
+Virginia,Fairfax County
+Virginia,Fairfax County
 Virginia,Fairfax County
 Virginia,Fairfax County
 Virginia,Fairfax County
@@ -819,6 +1529,10 @@ Virginia,Fairfax County
 Virginia,Fairfax County
 Virginia,Fairfax County
 Virginia,Fluvanna County
+Virginia,Fluvanna County
+Virginia,Franklin County
+Virginia,Franklin County
+Virginia,Franklin County
 Virginia,Franklin County
 Virginia,Franklin County
 Virginia,Franklin County
@@ -828,9 +1542,13 @@ Virginia,Greene County
 Virginia,Greene County
 Virginia,Greene County
 Virginia,Henrico County
+Virginia,Henrico County
 Virginia,Isle of Wight County
 Virginia,Loudoun County
 Virginia,Loudoun County
+Virginia,Loudoun County
+Virginia,Loudoun County
+Virginia,Louisa County
 Virginia,Louisa County
 Virginia,Louisa County
 Virginia,Madison County
@@ -847,24 +1565,72 @@ Virginia,Montgomery County
 Virginia,Montgomery County
 Virginia,Montgomery County
 Virginia,Montgomery County
+Virginia,Montgomery County
+Virginia,Montgomery County
+Virginia,Montgomery County
+Virginia,Montgomery County
 Virginia,Nelson County
 Virginia,Nelson County
 Virginia,Nelson County
 Virginia,Nelson County
+Virginia,Nelson County
+Virginia,Nelson County
+Virginia,Nelson County
+Virginia,Nelson County
+Virginia,Nelson County
+Virginia,Newport News city
+Virginia,Newport News city
+Virginia,Norfolk city
 Virginia,Poquoson city
 Virginia,Prince William County
 Virginia,Prince William County
 Virginia,Pulaski County
 Virginia,Richmond city
+Virginia,Richmond city
+Virginia,Richmond city
+Virginia,Roanoke city
+Virginia,Roanoke city
+Virginia,Roanoke city
+Virginia,Roanoke city
+Virginia,Roanoke city
+Virginia,Roanoke city
 Virginia,Roanoke city
 Virginia,Roanoke County
 Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Roanoke County
+Virginia,Rockbridge County
+Virginia,Salem city
+Virginia,Shenandoah County
+Virginia,Shenandoah County
+Virginia,Shenandoah County
 Virginia,Spotsylvania County
+Virginia,Staunton city
+Virginia,Virginia Beach city
 Virginia,Virginia Beach city
 Virginia,Washington County
 Virginia,Washington County
 Virginia,Washington County
 Virginia,Waynesboro city
+Virginia,Wise County
 Virginia,Wythe County
 Washington,Benton County
 Washington,King County
@@ -878,25 +1644,62 @@ Washington,King County
 Washington,King County
 Washington,King County
 Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
+Washington,King County
 Washington,Kitsap County
+Washington,Pierce County
+Washington,Pierce County
 Washington,Pierce County
 Washington,Snohomish County
 Washington,Snohomish County
 Washington,Snohomish County
 Washington,Snohomish County
 Washington,Snohomish County
+Washington,Snohomish County
+Washington,Snohomish County
+Washington,Spokane County
+Washington,Spokane County
+Washington,Thurston County
+Washington,Thurston County
 Washington,Whatcom County
 West Virginia,Berkeley County
 West Virginia,Berkeley County
 West Virginia,Brooke County
+West Virginia,Brooke County
+West Virginia,Cabell County
+West Virginia,Greenbrier County
+West Virginia,Greenbrier County
 West Virginia,Greenbrier County
 West Virginia,Hancock County
+West Virginia,Hancock County
+West Virginia,Kanawha County
 West Virginia,Marshall County
 West Virginia,Ohio County
+West Virginia,Ohio County
+West Virginia,Pocahontas County
 West Virginia,Pocahontas County
 West Virginia,Pocahontas County
 West Virginia,Putnam County
 Wisconsin,Dane County
 Wisconsin,Dane County
 Wisconsin,Dane County
+Wisconsin,Dane County
+Wisconsin,Dane County
+Wisconsin,Dane County
+Wisconsin,Milwaukee County
 Wisconsin,Portage County
+Wisconsin,Racine County
+Wisconsin,St. Croix County
+Wisconsin,Waukesha County
+Wyoming,Fremont County
+Wyoming,Fremont County
+Wyoming,Fremont County

@@ -171,10 +171,7 @@ function drawGraph(values) {
   }
 
   add_county_info = function(id) {
-    console.log(id)
-    console.log(counties);
     county = counties.find(function (d) { return d.id === id });
-    console.log(county);
     var div_content = `<div class="pill main-pill"><h4> ${county.data.CTYNAME} </h4></div><br> <div class="county-text">` + 
       get_business_string(county) + get_school_string(county) + get_college_string(county)  + 
       get_religion_string(county) + get_lockdown_string(county) + "</div>"
@@ -192,8 +189,6 @@ function drawGraph(values) {
     counties_with_intervention_data = counties_in_state.filter(function(item) {
         return item.intervention_data != undefined;
     })
-
-    console.log(counties_with_intervention_data)
 
     county_names = counties_with_intervention_data.map(function (item) {
         return `<div class="pill"><a onclick="add_county_info('${item.id}')">${item.properties.name}</a></div>`
@@ -239,13 +234,11 @@ function drawGraph(values) {
     document.getElementById("state-info").innerHTML = div_content;
   }
 
-  
-
-
   var county_data = values[0];
   var us = values[1];
   var intervention_data = values[2];
   var unverified_data = values[3];
+  var external_data = values[4];
 
   var states = topojson.feature(us, us.objects.states).features;
   var counties = topojson.feature(us, us.objects.counties).features;
@@ -268,14 +261,17 @@ function drawGraph(values) {
       county.data.status = 1;
   });
 
-
+  external_data.forEach(function (item) {
+      county = counties.find(function (d) { return d.id === item.fips })
+      county.external_data = item;
+  });
 
   d3.select("#counter").html(intervention_data.length + "/" + counties.length);
 
   // code from Bostock's d3 documentation on Observable  
   // URL: 
 
-  svg_string = `<svg viewBox="0 0 ${width} ${height}">
+svg_string = `<svg viewBox="0 0 ${width} ${height}">
 <g fill="none" stroke="#000" stroke-linejoin="round" stroke-linecap="round">
   <path stroke="#aaa" stroke-width="0.5" d="${path(topojson.mesh(us, us.objects.counties, (a, b) => a !== b && (a.id / 1000 | 0) === (b.id / 1000 | 0)))}"></path>
   <path stroke-width="0.5" d="${path(topojson.mesh(us, us.objects.states, (a, b) => a !== b))}"></path>
@@ -323,8 +319,16 @@ function drawGraph(values) {
 
   d3.select("#santa-clara-link").on("click", () => {d3.select("#santa-clara-info").attr("style","display:block;")})
 
- 
+  var svg2 = d3.select("#mapcontainer2");  
+  svg2.html(svg_string);
 
+  d3.select("#mapcontainer2 > svg").append("g")
+  .selectAll("path")
+  .data(counties)
+  .join("path")      
+    .attr("fill", d => d.external_data ? "blue" : "none")
+    .attr("opacity", 0.4)
+    .attr("d", path)
 }
 
 var promises = [];
@@ -333,6 +337,7 @@ promises.push(d3.csv('d3-data/county_data.csv'))
 promises.push(d3.json('d3-data/counties-albers-10m.json'))
 promises.push(d3.csv('d3-data/intervention_data.csv'))
 promises.push(d3.csv('d3-data/unverified_data.csv'))
+promises.push(d3.csv('d3-data/external_data.csv'))
 
 Promise.all(promises).then(function(values) {
     drawGraph(values)
