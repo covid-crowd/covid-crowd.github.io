@@ -14,11 +14,6 @@ function drawGraph(values) {
     if (x == 3){ return "#ff0000"; }
   }
   
-  Date.prototype.to_string = function ()  {
-    var options = { year: 'numeric', month: 'long', day: 'numeric' };  
-    return this.toLocaleString('en-US', options)
-  }
-
   function get_business_string (county) {
     data = county.intervention_data
 
@@ -52,7 +47,7 @@ function drawGraph(values) {
       question_string = "<div>" + plural_entity_name + " were closed"
       if (closed_date)
       {
-        question_string += " on " + new Date(closed_date + "T00:00:00-08:00").to_string() + ".";
+        question_string += " on " + moment(closed_date).format("dddd, MMMM D Y") + ".";
       }
       else {
          question_string += ", no date provided."
@@ -68,7 +63,7 @@ function drawGraph(values) {
       question_string += " " + plural_entity_name + " were reopened"  
       if (open_date)
       {
-        question_string += " on " + new Date(open_date + "T00:00:00-08:00").to_string() + ".";
+        question_string += " on " + moment(open_date).format("dddd, MMMM D Y") + ".";
       }
       else {
          question_string += ", no date provided."
@@ -94,7 +89,7 @@ function drawGraph(values) {
       question_string = "<div>Some or all religious gatherings ceased"
       if (data.religion_closed_date)
       {
-        question_string += " on " + new Date(data.religion_closed_date + "T00:00:00-08:00").to_string() + ".";
+        question_string += " on " + moment(data.religion_closed_date).format("dddd, MMMM D Y") + ".";
       }
       else {
          question_string += ", no date provided."
@@ -111,7 +106,7 @@ function drawGraph(values) {
       question_string += "Religious gatherings resumed"  
       if (data.religion_open_date)
       {
-        question_string += " on " + new Date(data.religion_open_date + "T00:00:00-08:00").to_string() + ".";
+        question_string += " on " + moment(data.religion_open_date).format("dddd, MMMM D Y") + ".";
       }
       else {
          question_string += ", no date provided."
@@ -137,7 +132,7 @@ function drawGraph(values) {
       question_string = "<div>An order to stay at home has been put in place"
       if (data.lockdown_closed_date)
       {
-        question_string += " on " + new Date(data.lockdown_closed_date + "T00:00:00-08:00").to_string() + ".";
+        question_string += " on " + moment(data.lockdown_closed_date).format("dddd, MMMM D Y") + ".";
       }
       else {
          question_string += ", no date provided."
@@ -154,7 +149,7 @@ function drawGraph(values) {
       question_string += "The was lifted"  
       if (data.lockdown_open_date)
       {
-        question_string += " on " + new Date(data.lockdown_open_date + "T00:00:00-08:00").to_string() + ".";
+        question_string += " on " + moment(data.lockdown_open_date).format("dddd, MMMM D Y") + ".";
       }
       else {
          question_string += ", no date provided."
