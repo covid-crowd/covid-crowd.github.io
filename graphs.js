@@ -38,9 +38,9 @@ function drawGraph(values) {
   function get_college_string(county) {
     data = county.intervention_data
 
-    return get_question_string("Colleges and/or universities", data.school_closed, 
-      data.school_closed_date, data.school_closed_url, data.school_open,
-       data.school_open_date, data.school_open_url)
+    return get_question_string("Colleges and/or universities", data.college_closed, 
+      data.college_closed_date, data.college_closed_url, data.college_open,
+       data.college_open_date, data.college_open_url)
   }
 
   function get_question_string(plural_entity_name, closed, closed_date, closed_url, open, open_date, open_url) {
@@ -52,7 +52,7 @@ function drawGraph(values) {
       question_string = "<div>" + plural_entity_name + " were closed"
       if (closed_date)
       {
-        question_string += " on " + new Date(closed_date).to_string() + ".";
+        question_string += " on " + new Date(closed_date + " EDT").to_string() + ".";
       }
       else {
          question_string += ", no date provided."
@@ -68,7 +68,7 @@ function drawGraph(values) {
       question_string += " " + plural_entity_name + " were reopened"  
       if (open_date)
       {
-        question_string += " on " + new Date(open_date).to_string() + ".";
+        question_string += " on " + new Date(open_date + " EDT").to_string() + ".";
       }
       else {
          question_string += ", no date provided."
@@ -94,7 +94,7 @@ function drawGraph(values) {
       question_string = "<div>Some or all religious gatherings ceased"
       if (data.religion_closed_date)
       {
-        question_string += " on " + new Date(data.religion_closed_date).to_string() + ".";
+        question_string += " on " + new Date(data.religion_closed_date + " EDT").to_string() + ".";
       }
       else {
          question_string += ", no date provided."
@@ -111,7 +111,7 @@ function drawGraph(values) {
       question_string += "Religious gatherings resumed"  
       if (data.religion_open_date)
       {
-        question_string += " on " + new Date(data.religion_open_date).to_string() + ".";
+        question_string += " on " + new Date(data.religion_open_date + " EDT").to_string() + ".";
       }
       else {
          question_string += ", no date provided."
@@ -137,7 +137,7 @@ function drawGraph(values) {
       question_string = "<div>An order to stay at home has been put in place"
       if (data.lockdown_closed_date)
       {
-        question_string += " on " + new Date(data.lockdown_closed_date).to_string() + ".";
+        question_string += " on " + new Date(data.lockdown_closed_date + " EDT").to_string() + ".";
       }
       else {
          question_string += ", no date provided."
@@ -154,7 +154,7 @@ function drawGraph(values) {
       question_string += "The was lifted"  
       if (data.lockdown_open_date)
       {
-        question_string += " on " + new Date(data.lockdown_open_date).to_string() + ".";
+        question_string += " on " + new Date(data.lockdown_open_date + " EDT").to_string() + ".";
       }
       else {
          question_string += ", no date provided."
@@ -172,6 +172,9 @@ function drawGraph(values) {
 
   add_county_info = function(id) {
     county = counties.find(function (d) { return d.id === id });
+    if (county.data.CTYNAME == "Cook County") {
+      console.log(county)
+    }
     var div_content = `<div class="pill main-pill"><h4> ${county.data.CTYNAME} </h4></div><br> <div class="county-text">` + 
       get_business_string(county) + get_school_string(county) + get_college_string(county)  + 
       get_religion_string(county) + get_lockdown_string(county) + "</div>"
