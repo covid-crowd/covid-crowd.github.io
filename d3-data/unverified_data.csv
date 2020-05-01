@@ -4,10 +4,15 @@ Alabama,Autauga County,01001
 Alabama,Autauga County,01001
 Alabama,Autauga County,01001
 Alabama,Autauga County,01001
+Alabama,Autauga County,01001
+Alabama,Autauga County,01001
+Alabama,Autauga County,01001
 Alabama,Bibb County,01007
 Alabama,Crenshaw County,01041
+Alabama,DeKalb County,01049
 Alabama,Jefferson County,01073
 Alabama,Jefferson County,01073
+Alabama,Madison County,01089
 Alabama,Madison County,01089
 Alabama,Madison County,01089
 Alabama,Tuscaloosa County,01125
@@ -20,6 +25,13 @@ Alaska,Anchorage Municipality,02020
 Alaska,Ketchikan Gateway Borough,02130
 Arizona,Coconino County,04005
 Arizona,Gila County,04007
+Arizona,La Paz County,04012
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
+Arizona,Maricopa County,04013
 Arizona,Maricopa County,04013
 Arizona,Maricopa County,04013
 Arizona,Maricopa County,04013
@@ -48,6 +60,9 @@ Arizona,Maricopa County,04013
 Arizona,Maricopa County,04013
 Arizona,Maricopa County,04013
 Arizona,Mohave County,04015
+Arizona,Mohave County,04015
+Arizona,Pima County,04019
+Arizona,Pima County,04019
 Arizona,Pima County,04019
 Arizona,Pima County,04019
 Arizona,Pima County,04019
@@ -58,14 +73,38 @@ Arizona,Pima County,04019
 Arizona,Pima County,04019
 Arizona,Pima County,04019
 Arizona,Yavapai County,04025
+Arizona,Yavapai County,04025
 Arizona,Yuma County,04027
 Arkansas,Ashley County,05003
+Arkansas,Baxter County,05005
+Arkansas,Benton County,05007
 Arkansas,Bradley County,05011
+Arkansas,Craighead County,05031
 Arkansas,Polk County,05113
 Arkansas,Pulaski County,05119
 Arkansas,Pulaski County,05119
 Arkansas,Pulaski County,05119
 Arkansas,Pulaski County,05119
+Arkansas,Pulaski County,05119
+Arkansas,Pulaski County,05119
+Arkansas,White County,05145
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
+California,Alameda County,06001
 California,Alameda County,06001
 California,Alameda County,06001
 California,Alameda County,06001
@@ -148,8 +187,17 @@ California,Contra Costa County,06013
 California,Contra Costa County,06013
 California,Contra Costa County,06013
 California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
+California,Contra Costa County,06013
 California,El Dorado County,06017
 California,El Dorado County,06017
+California,Fresno County,06019
+California,Fresno County,06019
+California,Fresno County,06019
+California,Fresno County,06019
+California,Fresno County,06019
 California,Fresno County,06019
 California,Fresno County,06019
 California,Glenn County,06021
@@ -167,6 +215,9 @@ California,Humboldt County,06023
 California,Humboldt County,06023
 California,Humboldt County,06023
 California,Humboldt County,06023
+California,Humboldt County,06023
+California,Imperial County,06025
+California,Inyo County,06027
 California,Kern County,06029
 California,Los Angeles County,06037
 California,Los Angeles County,06037
@@ -245,6 +296,23 @@ California,Los Angeles County,06037
 California,Los Angeles County,06037
 California,Los Angeles County,06037
 California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
+California,Los Angeles County,06037
 California,Marin County,06041
 California,Marin County,06041
 California,Marin County,06041
@@ -255,6 +323,8 @@ California,Marin County,06041
 California,Marin County,06041
 California,Marin County,06041
 California,Marin County,06041
+California,Marin County,06041
+California,Mariposa County,06043
 California,Mendocino County,06045
 California,Mendocino County,06045
 California,Mendocino County,06045
@@ -262,12 +332,35 @@ California,Merced County,06047
 California,Merced County,06047
 California,Merced County,06047
 California,Merced County,06047
+California,Merced County,06047
+California,Monterey County,06053
 California,Monterey County,06053
 California,Napa County,06055
 California,Napa County,06055
 California,Napa County,06055
 California,Napa County,06055
 California,Napa County,06055
+California,Napa County,06055
+California,Nevada County,06057
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
+California,Orange County,06059
 California,Orange County,06059
 California,Orange County,06059
 California,Orange County,06059
@@ -357,6 +450,7 @@ California,Placer County,06061
 California,Placer County,06061
 California,Placer County,06061
 California,Placer County,06061
+California,Placer County,06061
 California,Riverside County,06065
 California,Riverside County,06065
 California,Riverside County,06065
@@ -373,6 +467,14 @@ California,Riverside County,06065
 California,Riverside County,06065
 California,Riverside County,06065
 California,Riverside County,06065
+California,Riverside County,06065
+California,Riverside County,06065
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
+California,Sacramento County,06067
 California,Sacramento County,06067
 California,Sacramento County,06067
 California,Sacramento County,06067
@@ -400,6 +502,7 @@ California,San Bernardino County,06071
 California,San Bernardino County,06071
 California,San Bernardino County,06071
 California,San Bernardino County,06071
+California,San Bernardino County,06071
 California,San Diego County,06073
 California,San Diego County,06073
 California,San Diego County,06073
@@ -433,6 +536,33 @@ California,San Diego County,06073
 California,San Diego County,06073
 California,San Diego County,06073
 California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Diego County,06073
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
+California,San Francisco County,06075
 California,San Francisco County,06075
 California,San Francisco County,06075
 California,San Francisco County,06075
@@ -483,6 +613,55 @@ California,San Joaquin County,06077
 California,San Joaquin County,06077
 California,San Luis Obispo County,06079
 California,San Luis Obispo County,06079
+California,San Luis Obispo County,06079
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
+California,San Mateo County,06081
 California,San Mateo County,06081
 California,San Mateo County,06081
 California,San Mateo County,06081
@@ -562,6 +741,85 @@ California,Santa Barbara County,06083
 California,Santa Barbara County,06083
 California,Santa Barbara County,06083
 California,Santa Barbara County,06083
+California,Santa Barbara County,06083
+California,Santa Barbara County,06083
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
+California,Santa Clara County,06085
 California,Santa Clara County,06085
 California,Santa Clara County,06085
 California,Santa Clara County,06085
@@ -680,6 +938,15 @@ California,Santa Cruz County,06087
 California,Santa Cruz County,06087
 California,Santa Cruz County,06087
 California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Santa Cruz County,06087
+California,Shasta County,06089
+California,Shasta County,06089
+California,Shasta County,06089
+California,Shasta County,06089
 California,Shasta County,06089
 California,Shasta County,06089
 California,Shasta County,06089
@@ -711,6 +978,8 @@ California,Solano County,06095
 California,Solano County,06095
 California,Solano County,06095
 California,Solano County,06095
+California,Sonoma County,06097
+California,Sonoma County,06097
 California,Sonoma County,06097
 California,Sonoma County,06097
 California,Sonoma County,06097
@@ -724,20 +993,30 @@ California,Ventura County,06111
 California,Ventura County,06111
 California,Ventura County,06111
 California,Ventura County,06111
+California,Ventura County,06111
+California,Ventura County,06111
+California,Ventura County,06111
 California,Yolo County,06113
 California,Yolo County,06113
 California,Yolo County,06113
+California,Yolo County,06113
 Colorado,Adams County,08001
 Colorado,Adams County,08001
 Colorado,Adams County,08001
 Colorado,Adams County,08001
 Colorado,Adams County,08001
+Colorado,Adams County,08001
+Colorado,Adams County,08001
+Colorado,Arapahoe County,08005
 Colorado,Arapahoe County,08005
 Colorado,Arapahoe County,08005
 Colorado,Arapahoe County,08005
 Colorado,Arapahoe County,08005
 Colorado,Archuleta County,08007
 Colorado,Baca County,08009
+Colorado,Boulder County,08013
+Colorado,Boulder County,08013
+Colorado,Boulder County,08013
 Colorado,Boulder County,08013
 Colorado,Boulder County,08013
 Colorado,Boulder County,08013
@@ -756,8 +1035,15 @@ Colorado,Denver County,08031
 Colorado,Denver County,08031
 Colorado,Denver County,08031
 Colorado,Denver County,08031
+Colorado,Denver County,08031
+Colorado,Denver County,08031
+Colorado,Denver County,08031
+Colorado,Denver County,08031
 Colorado,Douglas County,08035
 Colorado,Douglas County,08035
+Colorado,Douglas County,08035
+Colorado,El Paso County,08041
+Colorado,El Paso County,08041
 Colorado,El Paso County,08041
 Colorado,El Paso County,08041
 Colorado,El Paso County,08041
@@ -769,6 +1055,7 @@ Colorado,Jefferson County,08059
 Colorado,Jefferson County,08059
 Colorado,Jefferson County,08059
 Colorado,Jefferson County,08059
+Colorado,La Plata County,08067
 Colorado,Larimer County,08069
 Colorado,Larimer County,08069
 Colorado,Larimer County,08069
@@ -781,12 +1068,20 @@ Colorado,Larimer County,08069
 Colorado,Larimer County,08069
 Colorado,Larimer County,08069
 Colorado,Larimer County,08069
+Colorado,Larimer County,08069
+Colorado,Mineral County,08079
+Colorado,Montrose County,08085
+Colorado,Ouray County,08091
 Colorado,Park County,08093
+Colorado,Pitkin County,08097
 Colorado,Pitkin County,08097
 Colorado,Rio Grande County,08105
 Colorado,Routt County,08107
 Colorado,Routt County,08107
 Colorado,Routt County,08107
+Colorado,San Miguel County,08113
+Colorado,Summit County,08117
+Colorado,Summit County,08117
 Colorado,Summit County,08117
 Colorado,Weld County,08123
 Connecticut,Fairfield County,09001
@@ -797,6 +1092,15 @@ Connecticut,Fairfield County,09001
 Connecticut,Fairfield County,09001
 Connecticut,Fairfield County,09001
 Connecticut,Fairfield County,09001
+Connecticut,Fairfield County,09001
+Connecticut,Fairfield County,09001
+Connecticut,Fairfield County,09001
+Connecticut,Fairfield County,09001
+Connecticut,Fairfield County,09001
+Connecticut,Hartford County,09003
+Connecticut,Hartford County,09003
+Connecticut,Hartford County,09003
+Connecticut,Hartford County,09003
 Connecticut,Hartford County,09003
 Connecticut,Hartford County,09003
 Connecticut,Hartford County,09003
@@ -804,6 +1108,10 @@ Connecticut,Litchfield County,09005
 Connecticut,Litchfield County,09005
 Connecticut,Middlesex County,09007
 Connecticut,Middlesex County,09007
+Connecticut,Middlesex County,09007
+Connecticut,New Haven County,09009
+Connecticut,New Haven County,09009
+Connecticut,New Haven County,09009
 Connecticut,New Haven County,09009
 Connecticut,New Haven County,09009
 Connecticut,New Haven County,09009
@@ -819,10 +1127,22 @@ Connecticut,New London County,09011
 Connecticut,Tolland County,09013
 Connecticut,Tolland County,09013
 Connecticut,Windham County,09015
+Connecticut,Windham County,09015
+Connecticut,Windham County,09015
+Connecticut,Windham County,09015
 Delaware,Kent County,10001
 Delaware,Kent County,10001
+Delaware,New Castle County,10003
 Delaware,Sussex County,10005
 Delaware,Sussex County,10005
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
+District of Columbia,District of Columbia,11001
 District of Columbia,District of Columbia,11001
 District of Columbia,District of Columbia,11001
 District of Columbia,District of Columbia,11001
@@ -844,6 +1164,7 @@ District of Columbia,District of Columbia,11001
 District of Columbia,District of Columbia,11001
 District of Columbia,District of Columbia,11001
 Florida,Alachua County,12001
+Florida,Alachua County,12001
 Florida,Bradford County,12007
 Florida,Broward County,12011
 Florida,Broward County,12011
@@ -852,6 +1173,9 @@ Florida,Broward County,12011
 Florida,Broward County,12011
 Florida,Broward County,12011
 Florida,Broward County,12011
+Florida,Broward County,12011
+Florida,Broward County,12011
+Florida,Broward County,12011
 Florida,Collier County,12021
 Florida,Collier County,12021
 Florida,Collier County,12021
@@ -859,6 +1183,8 @@ Florida,Duval County,12031
 Florida,Duval County,12031
 Florida,Duval County,12031
 Florida,Duval County,12031
+Florida,Duval County,12031
+Florida,Escambia County,12033
 Florida,Flagler County,12035
 Florida,Hillsborough County,12057
 Florida,Hillsborough County,12057
@@ -867,15 +1193,20 @@ Florida,Hillsborough County,12057
 Florida,Hillsborough County,12057
 Florida,Hillsborough County,12057
 Florida,Hillsborough County,12057
+Florida,Hillsborough County,12057
+Florida,Lake County,12069
 Florida,Lake County,12069
 Florida,Lee County,12071
 Florida,Lee County,12071
 Florida,Leon County,12073
 Florida,Leon County,12073
+Florida,Leon County,12073
+Florida,Leon County,12073
 Florida,Manatee County,12081
 Florida,Manatee County,12081
 Florida,Marion County,12083
 Florida,Marion County,12083
+Florida,Martin County,12085
 Florida,Miami-Dade County,12086
 Florida,Miami-Dade County,12086
 Florida,Miami-Dade County,12086
@@ -890,6 +1221,12 @@ Florida,Orange County,12095
 Florida,Orange County,12095
 Florida,Orange County,12095
 Florida,Orange County,12095
+Florida,Orange County,12095
+Florida,Orange County,12095
+Florida,Orange County,12095
+Florida,Palm Beach County,12099
+Florida,Palm Beach County,12099
+Florida,Palm Beach County,12099
 Florida,Palm Beach County,12099
 Florida,Palm Beach County,12099
 Florida,Palm Beach County,12099
@@ -903,6 +1240,8 @@ Florida,Pinellas County,12103
 Florida,Pinellas County,12103
 Florida,Pinellas County,12103
 Florida,Pinellas County,12103
+Florida,Pinellas County,12103
+Florida,Santa Rosa County,12113
 Florida,Sarasota County,12115
 Florida,Seminole County,12117
 Florida,Seminole County,12117
@@ -910,8 +1249,10 @@ Florida,Seminole County,12117
 Florida,Seminole County,12117
 Florida,St. Johns County,12109
 Florida,St. Johns County,12109
+Florida,St. Johns County,12109
 Georgia,Barrow County,13013
 Georgia,Chatham County,13051
+Georgia,Cherokee County,13057
 Georgia,Clarke County,13059
 Georgia,Clarke County,13059
 Georgia,Clarke County,13059
@@ -922,6 +1263,8 @@ Georgia,Clarke County,13059
 Georgia,Clarke County,13059
 Georgia,Clarke County,13059
 Georgia,Clarke County,13059
+Georgia,Cobb County,13067
+Georgia,Cobb County,13067
 Georgia,Cobb County,13067
 Georgia,Cobb County,13067
 Georgia,Cobb County,13067
@@ -931,6 +1274,7 @@ Georgia,Cobb County,13067
 Georgia,Cobb County,13067
 Georgia,Cobb County,13067
 Georgia,Columbia County,13073
+Georgia,DeKalb County,13089
 Georgia,DeKalb County,13089
 Georgia,DeKalb County,13089
 Georgia,DeKalb County,13089
@@ -959,6 +1303,9 @@ Georgia,Fulton County,13121
 Georgia,Fulton County,13121
 Georgia,Fulton County,13121
 Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
+Georgia,Fulton County,13121
 Georgia,Gwinnett County,13135
 Georgia,Gwinnett County,13135
 Georgia,Habersham County,13137
@@ -969,6 +1316,11 @@ Georgia,Houston County,13153
 Georgia,Oglethorpe County,13221
 Georgia,Paulding County,13223
 Georgia,Pickens County,13227
+Georgia,Putnam County,13237
+Hawaii,Hawaii County,15001
+Hawaii,Hawaii County,15001
+Hawaii,Hawaii County,15001
+Hawaii,Hawaii County,15001
 Hawaii,Hawaii County,15001
 Hawaii,Hawaii County,15001
 Hawaii,Hawaii County,15001
@@ -976,18 +1328,103 @@ Hawaii,Hawaii County,15001
 Hawaii,Honolulu County,15003
 Hawaii,Honolulu County,15003
 Hawaii,Honolulu County,15003
+Hawaii,Honolulu County,15003
+Hawaii,Honolulu County,15003
+Hawaii,Kauai County,15007
 Hawaii,Maui County,15009
 Hawaii,Maui County,15009
 Hawaii,Maui County,15009
+Hawaii,Maui County,15009
+Hawaii,Maui County,15009
 Idaho,Ada County,16001
 Idaho,Ada County,16001
 Idaho,Ada County,16001
 Idaho,Ada County,16001
 Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Ada County,16001
+Idaho,Bannock County,16005
+Idaho,Bannock County,16005
 Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Blaine County,16013
+Idaho,Boise County,16015
 Idaho,Boundary County,16021
+Idaho,Canyon County,16027
+Idaho,Canyon County,16027
+Idaho,Canyon County,16027
+Idaho,Canyon County,16027
+Idaho,Canyon County,16027
+Idaho,Canyon County,16027
+Idaho,Caribou County,16029
+Idaho,Cassia County,16031
+Idaho,Cassia County,16031
+Idaho,Minidoka County,16067
+Idaho,Payette County,16075
+Idaho,Teton County,16081
+Idaho,Twin Falls County,16083
 Illinois,Adams County,17001
 Illinois,Adams County,17001
+Illinois,Alexander County,17003
+Illinois,Brown County,17009
+Illinois,Champaign County,17019
 Illinois,Champaign County,17019
 Illinois,Champaign County,17019
 Illinois,Champaign County,17019
@@ -1048,13 +1485,40 @@ Illinois,Cook County,17031
 Illinois,Cook County,17031
 Illinois,Cook County,17031
 Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,Cook County,17031
+Illinois,DuPage County,17043
+Illinois,DuPage County,17043
+Illinois,DuPage County,17043
+Illinois,DuPage County,17043
+Illinois,DuPage County,17043
 Illinois,DuPage County,17043
 Illinois,DuPage County,17043
 Illinois,DuPage County,17043
 Illinois,Edgar County,17045
+Illinois,Fulton County,17057
 Illinois,Kane County,17089
 Illinois,Kane County,17089
 Illinois,Kane County,17089
+Illinois,Lake County,17097
+Illinois,Lake County,17097
+Illinois,Lake County,17097
+Illinois,Lake County,17097
 Illinois,Lake County,17097
 Illinois,Lake County,17097
 Illinois,Lake County,17097
@@ -1073,7 +1537,12 @@ Illinois,Sangamon County,17167
 Illinois,Sangamon County,17167
 Illinois,Sangamon County,17167
 Illinois,Sangamon County,17167
+Illinois,Sangamon County,17167
+Illinois,Sangamon County,17167
+Illinois,Sangamon County,17167
+Illinois,Sangamon County,17167
 Illinois,Will County,17197
+Illinois,Winnebago County,17201
 Indiana,Allen County,18003
 Indiana,Allen County,18003
 Indiana,Allen County,18003
@@ -1084,7 +1553,9 @@ Indiana,Allen County,18003
 Indiana,Allen County,18003
 Indiana,Allen County,18003
 Indiana,Allen County,18003
+Indiana,Boone County,18011
 Indiana,Clark County,18019
+Indiana,Dearborn County,18029
 Indiana,DeKalb County,18033
 Indiana,Delaware County,18035
 Indiana,Elkhart County,18039
@@ -1099,6 +1570,9 @@ Indiana,Jefferson County,18077
 Indiana,Johnson County,18081
 Indiana,Lake County,18089
 Indiana,Lake County,18089
+Indiana,Madison County,18095
+Indiana,Marion County,18097
+Indiana,Marion County,18097
 Indiana,Marion County,18097
 Indiana,Marion County,18097
 Indiana,Marion County,18097
@@ -1124,20 +1598,35 @@ Indiana,Tippecanoe County,18157
 Indiana,Tippecanoe County,18157
 Indiana,Vanderburgh County,18163
 Iowa,Black Hawk County,19013
+Iowa,Black Hawk County,19013
 Iowa,Dubuque County,19061
 Iowa,Humboldt County,19091
 Iowa,Johnson County,19103
+Iowa,Johnson County,19103
+Iowa,Johnson County,19103
+Iowa,Linn County,19113
 Iowa,Linn County,19113
 Iowa,Polk County,19153
 Iowa,Polk County,19153
 Iowa,Polk County,19153
 Iowa,Polk County,19153
+Iowa,Polk County,19153
+Iowa,Polk County,19153
 Iowa,Pottawattamie County,19155
+Iowa,Poweshiek County,19157
+Iowa,Poweshiek County,19157
+Iowa,Poweshiek County,19157
+Iowa,Poweshiek County,19157
+Iowa,Scott County,19163
+Iowa,Story County,19169
+Iowa,Story County,19169
 Iowa,Story County,19169
 Iowa,Washington County,19183
 Kansas,Barton County,20009
 Kansas,Barton County,20009
 Kansas,Cowley County,20035
+Kansas,Douglas County,20045
+Kansas,Douglas County,20045
 Kansas,Douglas County,20045
 Kansas,Douglas County,20045
 Kansas,Douglas County,20045
@@ -1177,6 +1666,8 @@ Kansas,Johnson County,20091
 Kansas,Johnson County,20091
 Kansas,Johnson County,20091
 Kansas,Johnson County,20091
+Kansas,Johnson County,20091
+Kansas,Johnson County,20091
 Kansas,Leavenworth County,20103
 Kansas,Leavenworth County,20103
 Kansas,Leavenworth County,20103
@@ -1185,6 +1676,7 @@ Kansas,Leavenworth County,20103
 Kansas,McPherson County,20113
 Kansas,Miami County,20121
 Kansas,Reno County,20155
+Kansas,Riley County,20161
 Kansas,Sedgwick County,20173
 Kansas,Sedgwick County,20173
 Kansas,Sedgwick County,20173
@@ -1195,11 +1687,15 @@ Kansas,Sedgwick County,20173
 Kansas,Shawnee County,20177
 Kansas,Shawnee County,20177
 Kansas,Wallace County,20199
+Kansas,Wallace County,20199
+Kansas,Wyandotte County,20209
 Kansas,Wyandotte County,20209
 Kentucky,Campbell County,21037
 Kentucky,Clark County,21049
 Kentucky,Daviess County,21059
 Kentucky,Daviess County,21059
+Kentucky,Daviess County,21059
+Kentucky,Fayette County,21067
 Kentucky,Fayette County,21067
 Kentucky,Hardin County,21093
 Kentucky,Jefferson County,21111
@@ -1211,6 +1707,9 @@ Kentucky,McCracken County,21145
 Kentucky,Meade County,21163
 Kentucky,Scott County,21209
 Kentucky,Scott County,21209
+Kentucky,Scott County,21209
+Kentucky,Woodford County,21239
+Kentucky,Woodford County,21239
 Kentucky,Woodford County,21239
 Kentucky,Woodford County,21239
 Kentucky,Woodford County,21239
@@ -1219,10 +1718,14 @@ Louisiana,Caddo Parish,22017
 Louisiana,Caddo Parish,22017
 Louisiana,Jefferson Parish,22051
 Louisiana,Orleans Parish,22071
+Louisiana,Orleans Parish,22071
+Louisiana,Orleans Parish,22071
 Louisiana,Pointe Coupee Parish,22077
 Louisiana,St. Tammany Parish,22103
 Louisiana,St. Tammany Parish,22103
 Louisiana,St. Tammany Parish,22103
+Louisiana,St. Tammany Parish,22103
+Maine,Cumberland County,23005
 Maine,Cumberland County,23005
 Maine,Cumberland County,23005
 Maine,Cumberland County,23005
@@ -1233,6 +1736,7 @@ Maine,Cumberland County,23005
 Maine,Cumberland County,23005
 Maine,Hancock County,23009
 Maine,Knox County,23013
+Maine,Knox County,23013
 Maine,York County,23031
 Maine,York County,23031
 Maryland,Allegany County,24001
@@ -1241,6 +1745,8 @@ Maryland,Anne Arundel County,24003
 Maryland,Anne Arundel County,24003
 Maryland,Anne Arundel County,24003
 Maryland,Anne Arundel County,24003
+Maryland,Anne Arundel County,24003
+Maryland,Anne Arundel County,24003
 Maryland,Baltimore city,24510
 Maryland,Baltimore city,24510
 Maryland,Baltimore city,24510
@@ -1250,6 +1756,11 @@ Maryland,Baltimore city,24510
 Maryland,Baltimore city,24510
 Maryland,Baltimore city,24510
 Maryland,Baltimore city,24510
+Maryland,Baltimore city,24510
+Maryland,Baltimore city,24510
+Maryland,Baltimore County,24005
+Maryland,Baltimore County,24005
+Maryland,Baltimore County,24005
 Maryland,Baltimore County,24005
 Maryland,Baltimore County,24005
 Maryland,Baltimore County,24005
@@ -1271,10 +1782,13 @@ Maryland,Frederick County,24021
 Maryland,Frederick County,24021
 Maryland,Frederick County,24021
 Maryland,Frederick County,24021
+Maryland,Frederick County,24021
 Maryland,Garrett County,24023
 Maryland,Garrett County,24023
 Maryland,Harford County,24025
 Maryland,Harford County,24025
+Maryland,Howard County,24027
+Maryland,Howard County,24027
 Maryland,Howard County,24027
 Maryland,Howard County,24027
 Maryland,Howard County,24027
@@ -1300,8 +1814,18 @@ Maryland,Montgomery County,24031
 Maryland,Montgomery County,24031
 Maryland,Montgomery County,24031
 Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
+Maryland,Montgomery County,24031
 Maryland,Prince George's County,24033
 Maryland,Prince George's County,24033
+Maryland,Prince George's County,24033
+Maryland,Prince George's County,24033
+Maryland,Prince George's County,24033
+Maryland,Queen Anne's County,24035
 Maryland,Queen Anne's County,24035
 Maryland,Talbot County,24041
 Maryland,Wicomico County,24045
@@ -1311,6 +1835,8 @@ Massachusetts,Barnstable County,25001
 Massachusetts,Barnstable County,25001
 Massachusetts,Barnstable County,25001
 Massachusetts,Barnstable County,25001
+Massachusetts,Barnstable County,25001
+Massachusetts,Berkshire County,25003
 Massachusetts,Berkshire County,25003
 Massachusetts,Berkshire County,25003
 Massachusetts,Berkshire County,25003
@@ -1334,6 +1860,11 @@ Massachusetts,Essex County,25009
 Massachusetts,Essex County,25009
 Massachusetts,Essex County,25009
 Massachusetts,Essex County,25009
+Massachusetts,Essex County,25009
+Massachusetts,Essex County,25009
+Massachusetts,Essex County,25009
+Massachusetts,Franklin County,25011
+Massachusetts,Franklin County,25011
 Massachusetts,Hampden County,25013
 Massachusetts,Hampden County,25013
 Massachusetts,Hampden County,25013
@@ -1348,6 +1879,11 @@ Massachusetts,Hampshire County,25015
 Massachusetts,Hampshire County,25015
 Massachusetts,Hampshire County,25015
 Massachusetts,Hampshire County,25015
+Massachusetts,Hampshire County,25015
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
+Massachusetts,Middlesex County,25017
 Massachusetts,Middlesex County,25017
 Massachusetts,Middlesex County,25017
 Massachusetts,Middlesex County,25017
@@ -1452,11 +1988,15 @@ Massachusetts,Norfolk County,25021
 Massachusetts,Norfolk County,25021
 Massachusetts,Norfolk County,25021
 Massachusetts,Norfolk County,25021
+Massachusetts,Norfolk County,25021
+Massachusetts,Norfolk County,25021
 Massachusetts,Plymouth County,25023
 Massachusetts,Plymouth County,25023
 Massachusetts,Plymouth County,25023
 Massachusetts,Plymouth County,25023
 Massachusetts,Plymouth County,25023
+Massachusetts,Plymouth County,25023
+Massachusetts,Plymouth County,25023
 Massachusetts,Suffolk County,25025
 Massachusetts,Suffolk County,25025
 Massachusetts,Suffolk County,25025
@@ -1490,6 +2030,14 @@ Massachusetts,Suffolk County,25025
 Massachusetts,Suffolk County,25025
 Massachusetts,Suffolk County,25025
 Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Suffolk County,25025
+Massachusetts,Worcester County,25027
+Massachusetts,Worcester County,25027
+Massachusetts,Worcester County,25027
+Massachusetts,Worcester County,25027
+Massachusetts,Worcester County,25027
 Massachusetts,Worcester County,25027
 Massachusetts,Worcester County,25027
 Massachusetts,Worcester County,25027
@@ -1503,16 +2051,25 @@ Michigan,Berrien County,26021
 Michigan,Cass County,26027
 Michigan,Delta County,26041
 Michigan,Eaton County,26045
+Michigan,Genesee County,26049
 Michigan,Ingham County,26065
 Michigan,Ingham County,26065
 Michigan,Ingham County,26065
 Michigan,Ingham County,26065
+Michigan,Kent County,26081
+Michigan,Kent County,26081
+Michigan,Kent County,26081
 Michigan,Kent County,26081
 Michigan,Kent County,26081
 Michigan,Kent County,26081
 Michigan,Kent County,26081
 Michigan,Lapeer County,26087
+Michigan,Lenawee County,26091
 Michigan,Macomb County,26099
+Michigan,Mecosta County,26107
+Michigan,Oakland County,26125
+Michigan,Oakland County,26125
+Michigan,Oakland County,26125
 Michigan,Oakland County,26125
 Michigan,Oakland County,26125
 Michigan,Oakland County,26125
@@ -1543,15 +2100,33 @@ Michigan,Washtenaw County,26161
 Michigan,Washtenaw County,26161
 Michigan,Washtenaw County,26161
 Michigan,Washtenaw County,26161
+Michigan,Washtenaw County,26161
+Michigan,Washtenaw County,26161
 Michigan,Wayne County,26163
 Michigan,Wayne County,26163
+Michigan,Wayne County,26163
 Minnesota,Anoka County,27003
 Minnesota,Anoka County,27003
 Minnesota,Anoka County,27003
 Minnesota,Anoka County,27003
+Minnesota,Anoka County,27003
+Minnesota,Anoka County,27003
+Minnesota,Anoka County,27003
+Minnesota,Beltrami County,27007
+Minnesota,Beltrami County,27007
 Minnesota,Carver County,27019
+Minnesota,Carver County,27019
+Minnesota,Cass County,27021
+Minnesota,Chisago County,27025
 Minnesota,Chisago County,27025
 Minnesota,Cook County,27031
+Minnesota,Crow Wing County,27035
+Minnesota,Crow Wing County,27035
+Minnesota,Crow Wing County,27035
+Minnesota,Crow Wing County,27035
+Minnesota,Dakota County,27037
+Minnesota,Dakota County,27037
+Minnesota,Dakota County,27037
 Minnesota,Dakota County,27037
 Minnesota,Dakota County,27037
 Minnesota,Dakota County,27037
@@ -1596,7 +2171,35 @@ Minnesota,Hennepin County,27053
 Minnesota,Hennepin County,27053
 Minnesota,Hennepin County,27053
 Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Hennepin County,27053
+Minnesota,Isanti County,27059
+Minnesota,Martin County,27091
 Minnesota,Nobles County,27105
+Minnesota,Olmsted County,27109
+Minnesota,Olmsted County,27109
 Minnesota,Olmsted County,27109
 Minnesota,Olmsted County,27109
 Minnesota,Olmsted County,27109
@@ -1615,24 +2218,51 @@ Minnesota,Ramsey County,27123
 Minnesota,Ramsey County,27123
 Minnesota,Ramsey County,27123
 Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
+Minnesota,Ramsey County,27123
 Minnesota,Renville County,27129
 Minnesota,Rice County,27131
 Minnesota,Scott County,27139
+Minnesota,Scott County,27139
+Minnesota,Scott County,27139
+Minnesota,Sherburne County,27141
+Minnesota,St. Louis County,27137
+Minnesota,St. Louis County,27137
 Minnesota,Stearns County,27145
 Minnesota,Washington County,27163
 Minnesota,Washington County,27163
 Minnesota,Washington County,27163
+Minnesota,Washington County,27163
+Minnesota,Wright County,27171
 Mississippi,DeSoto County,28033
 Mississippi,DeSoto County,28033
 Mississippi,DeSoto County,28033
+Mississippi,DeSoto County,28033
+Mississippi,DeSoto County,28033
+Mississippi,DeSoto County,28033
+Mississippi,Hinds County,28049
 Mississippi,Lamar County,28073
 Mississippi,Lamar County,28073
+Mississippi,Wayne County,28153
+Missouri,Boone County,29019
+Missouri,Boone County,29019
 Missouri,Boone County,29019
 Missouri,Boone County,29019
 Missouri,Boone County,29019
 Missouri,Boone County,29019
 Missouri,Buchanan County,29021
 Missouri,Cape Girardeau County,29031
+Missouri,Cass County,29037
+Missouri,Clay County,29047
 Missouri,Clay County,29047
 Missouri,Clay County,29047
 Missouri,Greene County,29077
@@ -1641,7 +2271,12 @@ Missouri,Jackson County,29095
 Missouri,Jackson County,29095
 Missouri,Jackson County,29095
 Missouri,Jackson County,29095
+Missouri,Jackson County,29095
+Missouri,Jackson County,29095
+Missouri,Jackson County,29095
 Missouri,Platte County,29165
+Missouri,St. Charles County,29183
+Missouri,St. Charles County,29183
 Missouri,St. Charles County,29183
 Missouri,St. Charles County,29183
 Missouri,St. Charles County,29183
@@ -1660,6 +2295,11 @@ Missouri,St. Louis city,29510
 Missouri,St. Louis city,29510
 Missouri,St. Louis city,29510
 Missouri,St. Louis city,29510
+Missouri,St. Louis city,29510
+Missouri,St. Louis city,29510
+Missouri,St. Louis County,29189
+Missouri,St. Louis County,29189
+Missouri,St. Louis County,29189
 Missouri,St. Louis County,29189
 Missouri,St. Louis County,29189
 Missouri,St. Louis County,29189
@@ -1685,10 +2325,16 @@ Missouri,Taney County,29213
 Montana,Flathead County,30029
 Montana,Flathead County,30029
 Montana,Flathead County,30029
+Montana,Flathead County,30029
+Montana,Flathead County,30029
+Montana,Flathead County,30029
+Montana,Flathead County,30029
+Montana,Gallatin County,30031
 Montana,Gallatin County,30031
 Montana,Gallatin County,30031
 Montana,Glacier County,30035
 Montana,Lake County,30047
+Montana,Lewis and Clark County,30049
 Montana,Lewis and Clark County,30049
 Montana,Missoula County,30063
 Montana,Missoula County,30063
@@ -1718,7 +2364,9 @@ Nebraska,Douglas County,31055
 Nebraska,Douglas County,31055
 Nebraska,Douglas County,31055
 Nebraska,Douglas County,31055
+Nebraska,Douglas County,31055
 Nebraska,Hall County,31079
+Nebraska,Lancaster County,31109
 Nebraska,Lancaster County,31109
 Nebraska,Lancaster County,31109
 Nebraska,Lancaster County,31109
@@ -1726,6 +2374,7 @@ Nebraska,Lancaster County,31109
 Nebraska,Lincoln County,31111
 Nebraska,Nuckolls County,31129
 Nebraska,Sarpy County,31153
+Nevada,Churchill County,32001
 Nevada,Churchill County,32001
 Nevada,Clark County,32003
 Nevada,Clark County,32003
@@ -1742,6 +2391,9 @@ Nevada,Clark County,32003
 Nevada,Clark County,32003
 Nevada,Clark County,32003
 Nevada,Clark County,32003
+Nevada,Clark County,32003
+Nevada,Clark County,32003
+Nevada,Douglas County,32005
 Nevada,Elko County,32007
 Nevada,Elko County,32007
 Nevada,Elko County,32007
@@ -1749,9 +2401,15 @@ Nevada,Elko County,32007
 Nevada,Elko County,32007
 Nevada,Elko County,32007
 Nevada,Elko County,32007
+Nevada,Elko County,32007
+Nevada,Elko County,32007
+Nevada,Esmeralda County,32009
 Nevada,Washoe County,32031
 Nevada,Washoe County,32031
 Nevada,Washoe County,32031
+Nevada,Washoe County,32031
+Nevada,Washoe County,32031
+New Hampshire,Carroll County,33003
 New Hampshire,Carroll County,33003
 New Hampshire,Cheshire County,33005
 New Hampshire,Coos County,33007
@@ -1765,7 +2423,14 @@ New Hampshire,Hillsborough County,33011
 New Hampshire,Hillsborough County,33011
 New Hampshire,Hillsborough County,33011
 New Hampshire,Hillsborough County,33011
+New Hampshire,Hillsborough County,33011
+New Hampshire,Hillsborough County,33011
+New Hampshire,Hillsborough County,33011
 New Hampshire,Merrimack County,33013
+New Hampshire,Merrimack County,33013
+New Hampshire,Rockingham County,33015
+New Hampshire,Rockingham County,33015
+New Hampshire,Rockingham County,33015
 New Hampshire,Rockingham County,33015
 New Hampshire,Rockingham County,33015
 New Hampshire,Strafford County,33017
@@ -1783,7 +2448,11 @@ New Jersey,Burlington County,34005
 New Jersey,Burlington County,34005
 New Jersey,Burlington County,34005
 New Jersey,Cape May County,34009
+New Jersey,Cape May County,34009
+New Jersey,Cape May County,34009
 New Jersey,Cumberland County,34011
+New Jersey,Essex County,34013
+New Jersey,Essex County,34013
 New Jersey,Essex County,34013
 New Jersey,Essex County,34013
 New Jersey,Essex County,34013
@@ -1799,16 +2468,22 @@ New Jersey,Hudson County,34017
 New Jersey,Hudson County,34017
 New Jersey,Hudson County,34017
 New Jersey,Hudson County,34017
+New Jersey,Hudson County,34017
+New Jersey,Mercer County,34021
 New Jersey,Mercer County,34021
 New Jersey,Mercer County,34021
 New Jersey,Mercer County,34021
 New Jersey,Middlesex County,34023
 New Jersey,Middlesex County,34023
 New Jersey,Middlesex County,34023
+New Jersey,Middlesex County,34023
+New Jersey,Monmouth County,34025
 New Jersey,Monmouth County,34025
 New Jersey,Monmouth County,34025
 New Jersey,Morris County,34027
+New Jersey,Morris County,34027
 New Jersey,Ocean County,34029
+New Jersey,Passaic County,34031
 New Jersey,Passaic County,34031
 New Jersey,Somerset County,34035
 New Jersey,Somerset County,34035
@@ -1818,6 +2493,11 @@ New Mexico,Bernalillo County,35001
 New Mexico,Bernalillo County,35001
 New Mexico,Bernalillo County,35001
 New Mexico,Bernalillo County,35001
+New Mexico,Bernalillo County,35001
+New Mexico,Bernalillo County,35001
+New Mexico,Bernalillo County,35001
+New Mexico,Los Alamos County,35028
+New Mexico,Los Alamos County,35028
 New Mexico,Los Alamos County,35028
 New Mexico,Los Alamos County,35028
 New Mexico,Los Alamos County,35028
@@ -1834,16 +2514,23 @@ New York,Albany County,36001
 New York,Albany County,36001
 New York,Albany County,36001
 New York,Albany County,36001
+New York,Albany County,36001
+New York,Albany County,36001
 New York,Allegany County,36003
+New York,Bronx County,36005
 New York,Broome County,36007
 New York,Cattaraugus County,36009
 New York,Cattaraugus County,36009
 New York,Cayuga County,36011
 New York,Chautauqua County,36013
+New York,Chemung County,36015
 New York,Chenango County,36017
 New York,Columbia County,36021
 New York,Dutchess County,36027
 New York,Dutchess County,36027
+New York,Dutchess County,36027
+New York,Erie County,36029
+New York,Erie County,36029
 New York,Erie County,36029
 New York,Erie County,36029
 New York,Erie County,36029
@@ -1862,13 +2549,27 @@ New York,Kings County,36047
 New York,Kings County,36047
 New York,Kings County,36047
 New York,Kings County,36047
+New York,Kings County,36047
+New York,Kings County,36047
+New York,Kings County,36047
 New York,Madison County,36053
 New York,Monroe County,36055
 New York,Monroe County,36055
 New York,Monroe County,36055
 New York,Monroe County,36055
 New York,Monroe County,36055
+New York,Monroe County,36055
+New York,Monroe County,36055
 New York,Nassau County,36059
+New York,Nassau County,36059
+New York,Nassau County,36059
+New York,Nassau County,36059
+New York,New York County,36061
+New York,New York County,36061
+New York,New York County,36061
+New York,New York County,36061
+New York,New York County,36061
+New York,New York County,36061
 New York,New York County,36061
 New York,New York County,36061
 New York,New York County,36061
@@ -1897,6 +2598,9 @@ New York,Onondaga County,36067
 New York,Onondaga County,36067
 New York,Onondaga County,36067
 New York,Onondaga County,36067
+New York,Onondaga County,36067
+New York,Orange County,36071
+New York,Orange County,36071
 New York,Orange County,36071
 New York,Oswego County,36075
 New York,Oswego County,36075
@@ -1916,13 +2620,22 @@ New York,Queens County,36081
 New York,Queens County,36081
 New York,Queens County,36081
 New York,Queens County,36081
+New York,Queens County,36081
 New York,Rensselaer County,36083
 New York,Schenectady County,36093
+New York,St. Lawrence County,36089
 New York,Suffolk County,36103
 New York,Suffolk County,36103
 New York,Suffolk County,36103
 New York,Suffolk County,36103
 New York,Suffolk County,36103
+New York,Suffolk County,36103
+New York,Suffolk County,36103
+New York,Suffolk County,36103
+New York,Suffolk County,36103
+New York,Tompkins County,36109
+New York,Tompkins County,36109
+New York,Tompkins County,36109
 New York,Tompkins County,36109
 New York,Tompkins County,36109
 New York,Tompkins County,36109
@@ -1930,23 +2643,38 @@ New York,Tompkins County,36109
 New York,Tompkins County,36109
 New York,Ulster County,36111
 New York,Ulster County,36111
+New York,Ulster County,36111
+New York,Westchester County,36119
+New York,Westchester County,36119
+New York,Westchester County,36119
+New York,Westchester County,36119
+New York,Westchester County,36119
 New York,Westchester County,36119
 New York,Westchester County,36119
 New York,Westchester County,36119
 New York,Westchester County,36119
 New York,Westchester County,36119
 North Carolina,Alamance County,37001
+North Carolina,Alamance County,37001
 North Carolina,Brunswick County,37019
 North Carolina,Buncombe County,37021
 North Carolina,Buncombe County,37021
 North Carolina,Buncombe County,37021
 North Carolina,Buncombe County,37021
+North Carolina,Buncombe County,37021
+North Carolina,Buncombe County,37021
+North Carolina,Buncombe County,37021
+North Carolina,Buncombe County,37021
+North Carolina,Burke County,37023
 North Carolina,Cabarrus County,37025
 North Carolina,Catawba County,37035
 North Carolina,Catawba County,37035
 North Carolina,Catawba County,37035
 North Carolina,Chatham County,37037
 North Carolina,Cumberland County,37051
+North Carolina,Cumberland County,37051
+North Carolina,Cumberland County,37051
+North Carolina,Dare County,37055
 North Carolina,Davidson County,37057
 North Carolina,Durham County,37063
 North Carolina,Durham County,37063
@@ -1956,6 +2684,14 @@ North Carolina,Durham County,37063
 North Carolina,Durham County,37063
 North Carolina,Durham County,37063
 North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
+North Carolina,Durham County,37063
 North Carolina,Forsyth County,37067
 North Carolina,Forsyth County,37067
 North Carolina,Forsyth County,37067
@@ -1969,6 +2705,7 @@ North Carolina,Forsyth County,37067
 North Carolina,Forsyth County,37067
 North Carolina,Forsyth County,37067
 North Carolina,Forsyth County,37067
+North Carolina,Gaston County,37071
 North Carolina,Guilford County,37081
 North Carolina,Guilford County,37081
 North Carolina,Guilford County,37081
@@ -1977,6 +2714,8 @@ North Carolina,Guilford County,37081
 North Carolina,Guilford County,37081
 North Carolina,Haywood County,37087
 North Carolina,Jackson County,37099
+North Carolina,Jackson County,37099
+North Carolina,Mecklenburg County,37119
 North Carolina,Mecklenburg County,37119
 North Carolina,Mecklenburg County,37119
 North Carolina,Mecklenburg County,37119
@@ -1993,12 +2732,20 @@ North Carolina,Mecklenburg County,37119
 North Carolina,Mecklenburg County,37119
 North Carolina,Montgomery County,37123
 North Carolina,Moore County,37125
+North Carolina,Moore County,37125
 North Carolina,Onslow County,37133
 North Carolina,Onslow County,37133
 North Carolina,Onslow County,37133
 North Carolina,Onslow County,37133
 North Carolina,Onslow County,37133
 North Carolina,Onslow County,37133
+North Carolina,Onslow County,37133
+North Carolina,Onslow County,37133
+North Carolina,Orange County,37135
+North Carolina,Orange County,37135
+North Carolina,Orange County,37135
+North Carolina,Orange County,37135
+North Carolina,Orange County,37135
 North Carolina,Orange County,37135
 North Carolina,Orange County,37135
 North Carolina,Orange County,37135
@@ -2012,6 +2759,7 @@ North Carolina,Surry County,37171
 North Carolina,Swain County,37173
 North Carolina,Union County,37179
 North Carolina,Union County,37179
+North Carolina,Union County,37179
 North Carolina,Wake County,37183
 North Carolina,Wake County,37183
 North Carolina,Wake County,37183
@@ -2043,10 +2791,18 @@ North Carolina,Wake County,37183
 North Carolina,Wake County,37183
 North Carolina,Wake County,37183
 North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Carolina,Wake County,37183
+North Dakota,Divide County,38023
 North Dakota,Grand Forks County,38035
 North Dakota,Morton County,38059
 North Dakota,Ward County,38101
 North Dakota,Ward County,38101
+Ohio,Butler County,39017
+Ohio,Cuyahoga County,39035
 Ohio,Cuyahoga County,39035
 Ohio,Cuyahoga County,39035
 Ohio,Cuyahoga County,39035
@@ -2075,6 +2831,10 @@ Ohio,Franklin County,39049
 Ohio,Franklin County,39049
 Ohio,Franklin County,39049
 Ohio,Franklin County,39049
+Ohio,Greene County,39057
+Ohio,Hamilton County,39061
+Ohio,Hamilton County,39061
+Ohio,Hamilton County,39061
 Ohio,Hamilton County,39061
 Ohio,Hamilton County,39061
 Ohio,Hamilton County,39061
@@ -2114,10 +2874,13 @@ Ohio,Warren County,39165
 Ohio,Warren County,39165
 Ohio,Warren County,39165
 Ohio,Warren County,39165
+Ohio,Warren County,39165
+Ohio,Washington County,39167
 Ohio,Wood County,39173
 Oklahoma,Canadian County,40017
 Oklahoma,Carter County,40019
 Oklahoma,Cherokee County,40021
+Oklahoma,Cleveland County,40027
 Oklahoma,Cleveland County,40027
 Oklahoma,Cleveland County,40027
 Oklahoma,Cleveland County,40027
@@ -2135,6 +2898,8 @@ Oklahoma,Delaware County,40041
 Oklahoma,Kingfisher County,40073
 Oklahoma,McClain County,40087
 Oklahoma,Muskogee County,40101
+Oklahoma,Oklahoma County,40109
+Oklahoma,Oklahoma County,40109
 Oklahoma,Oklahoma County,40109
 Oklahoma,Oklahoma County,40109
 Oklahoma,Oklahoma County,40109
@@ -2181,9 +2946,11 @@ Oklahoma,Tulsa County,40143
 Oklahoma,Tulsa County,40143
 Oklahoma,Tulsa County,40143
 Oklahoma,Tulsa County,40143
+Oklahoma,Tulsa County,40143
 Oklahoma,Wagoner County,40145
 Oregon,Benton County,41003
 Oregon,Benton County,41003
+Oregon,Benton County,41003
 Oregon,Clackamas County,41005
 Oregon,Clackamas County,41005
 Oregon,Clackamas County,41005
@@ -2193,6 +2960,11 @@ Oregon,Clackamas County,41005
 Oregon,Clackamas County,41005
 Oregon,Clackamas County,41005
 Oregon,Clackamas County,41005
+Oregon,Clackamas County,41005
+Oregon,Clackamas County,41005
+Oregon,Clackamas County,41005
+Oregon,Clackamas County,41005
+Oregon,Deschutes County,41017
 Oregon,Deschutes County,41017
 Oregon,Deschutes County,41017
 Oregon,Deschutes County,41017
@@ -2201,7 +2973,9 @@ Oregon,Grant County,41023
 Oregon,Jackson County,41029
 Oregon,Jackson County,41029
 Oregon,Jackson County,41029
+Oregon,Jackson County,41029
 Oregon,Klamath County,41035
+Oregon,Lane County,41039
 Oregon,Lane County,41039
 Oregon,Lane County,41039
 Oregon,Lane County,41039
@@ -2247,6 +3021,15 @@ Oregon,Multnomah County,41051
 Oregon,Multnomah County,41051
 Oregon,Multnomah County,41051
 Oregon,Multnomah County,41051
+Oregon,Multnomah County,41051
+Oregon,Multnomah County,41051
+Oregon,Multnomah County,41051
+Oregon,Multnomah County,41051
+Oregon,Multnomah County,41051
+Oregon,Washington County,41067
+Oregon,Washington County,41067
+Oregon,Washington County,41067
+Oregon,Washington County,41067
 Oregon,Washington County,41067
 Oregon,Washington County,41067
 Oregon,Washington County,41067
@@ -2346,6 +3129,14 @@ Pennsylvania,Allegheny County,42003
 Pennsylvania,Allegheny County,42003
 Pennsylvania,Allegheny County,42003
 Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
+Pennsylvania,Allegheny County,42003
 Pennsylvania,Armstrong County,42005
 Pennsylvania,Armstrong County,42005
 Pennsylvania,Armstrong County,42005
@@ -2357,13 +3148,20 @@ Pennsylvania,Armstrong County,42005
 Pennsylvania,Armstrong County,42005
 Pennsylvania,Armstrong County,42005
 Pennsylvania,Beaver County,42007
+Pennsylvania,Beaver County,42007
+Pennsylvania,Berks County,42011
 Pennsylvania,Berks County,42011
 Pennsylvania,Blair County,42013
+Pennsylvania,Bucks County,42017
+Pennsylvania,Bucks County,42017
+Pennsylvania,Bucks County,42017
 Pennsylvania,Bucks County,42017
 Pennsylvania,Bucks County,42017
 Pennsylvania,Butler County,42019
 Pennsylvania,Cambria County,42021
 Pennsylvania,Centre County,42027
+Pennsylvania,Centre County,42027
+Pennsylvania,Chester County,42029
 Pennsylvania,Chester County,42029
 Pennsylvania,Chester County,42029
 Pennsylvania,Chester County,42029
@@ -2376,10 +3174,17 @@ Pennsylvania,Cumberland County,42041
 Pennsylvania,Cumberland County,42041
 Pennsylvania,Cumberland County,42041
 Pennsylvania,Cumberland County,42041
+Pennsylvania,Cumberland County,42041
+Pennsylvania,Cumberland County,42041
+Pennsylvania,Cumberland County,42041
+Pennsylvania,Dauphin County,42043
 Pennsylvania,Delaware County,42045
 Pennsylvania,Delaware County,42045
 Pennsylvania,Delaware County,42045
 Pennsylvania,Delaware County,42045
+Pennsylvania,Delaware County,42045
+Pennsylvania,Delaware County,42045
+Pennsylvania,Erie County,42049
 Pennsylvania,Huntingdon County,42061
 Pennsylvania,Indiana County,42063
 Pennsylvania,Jefferson County,42065
@@ -2387,7 +3192,11 @@ Pennsylvania,Lackawanna County,42069
 Pennsylvania,Lackawanna County,42069
 Pennsylvania,Lancaster County,42071
 Pennsylvania,Lancaster County,42071
+Pennsylvania,Lancaster County,42071
 Pennsylvania,Lawrence County,42073
+Pennsylvania,Luzerne County,42079
+Pennsylvania,Luzerne County,42079
+Pennsylvania,Lycoming County,42081
 Pennsylvania,Mercer County,42085
 Pennsylvania,Mifflin County,42087
 Pennsylvania,Montgomery County,42091
@@ -2395,7 +3204,17 @@ Pennsylvania,Montgomery County,42091
 Pennsylvania,Montgomery County,42091
 Pennsylvania,Montgomery County,42091
 Pennsylvania,Montgomery County,42091
+Pennsylvania,Montgomery County,42091
 Pennsylvania,Northampton County,42095
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
+Pennsylvania,Philadelphia County,42101
 Pennsylvania,Philadelphia County,42101
 Pennsylvania,Philadelphia County,42101
 Pennsylvania,Philadelphia County,42101
@@ -2424,6 +3243,7 @@ Pennsylvania,Westmoreland County,42129
 Pennsylvania,Westmoreland County,42129
 Pennsylvania,Westmoreland County,42129
 Pennsylvania,Westmoreland County,42129
+Pennsylvania,Westmoreland County,42129
 Pennsylvania,York County,42133
 Pennsylvania,York County,42133
 Rhode Island,Providence County,44007
@@ -2431,6 +3251,17 @@ Rhode Island,Providence County,44007
 Rhode Island,Providence County,44007
 Rhode Island,Providence County,44007
 Rhode Island,Providence County,44007
+Rhode Island,Providence County,44007
+Rhode Island,Providence County,44007
+Rhode Island,Providence County,44007
+Rhode Island,Providence County,44007
+Rhode Island,Providence County,44007
+Rhode Island,Washington County,44009
+Rhode Island,Washington County,44009
+Rhode Island,Washington County,44009
+Rhode Island,Washington County,44009
+South Carolina,Aiken County,45003
+South Carolina,Aiken County,45003
 South Carolina,Aiken County,45003
 South Carolina,Aiken County,45003
 South Carolina,Allendale County,45005
@@ -2452,6 +3283,7 @@ South Carolina,Charleston County,45019
 South Carolina,Dorchester County,45035
 South Carolina,Greenville County,45045
 South Carolina,Greenville County,45045
+South Carolina,Greenville County,45045
 South Carolina,Horry County,45051
 South Carolina,Lexington County,45063
 South Carolina,Lexington County,45063
@@ -2462,12 +3294,14 @@ South Carolina,Sumter County,45085
 South Carolina,York County,45091
 South Dakota,Brookings County,46011
 South Dakota,Brown County,46013
+South Dakota,Butte County,46019
 South Dakota,Lincoln County,46083
 South Dakota,Minnehaha County,46099
 South Dakota,Minnehaha County,46099
 South Dakota,Minnehaha County,46099
 South Dakota,Minnehaha County,46099
 South Dakota,Minnehaha County,46099
+Tennessee,Anderson County,47001
 Tennessee,Blount County,47009
 Tennessee,Blount County,47009
 Tennessee,Cheatham County,47021
@@ -2489,6 +3323,9 @@ Tennessee,Davidson County,47037
 Tennessee,Davidson County,47037
 Tennessee,Davidson County,47037
 Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
+Tennessee,Davidson County,47037
 Tennessee,Greene County,47059
 Tennessee,Greene County,47059
 Tennessee,Greene County,47059
@@ -2499,6 +3336,8 @@ Tennessee,Greene County,47059
 Tennessee,Greene County,47059
 Tennessee,Hamilton County,47065
 Tennessee,Hamilton County,47065
+Tennessee,Knox County,47093
+Tennessee,Knox County,47093
 Tennessee,Knox County,47093
 Tennessee,Knox County,47093
 Tennessee,Knox County,47093
@@ -2513,6 +3352,8 @@ Tennessee,Rutherford County,47149
 Tennessee,Rutherford County,47149
 Tennessee,Rutherford County,47149
 Tennessee,Shelby County,47157
+Tennessee,Shelby County,47157
+Tennessee,Smith County,47159
 Tennessee,Sullivan County,47163
 Tennessee,Tipton County,47167
 Tennessee,Washington County,47179
@@ -2521,9 +3362,12 @@ Tennessee,Washington County,47179
 Tennessee,Williamson County,47187
 Tennessee,Williamson County,47187
 Tennessee,Williamson County,47187
+Tennessee,Williamson County,47187
 Tennessee,Wilson County,47189
 Tennessee,Wilson County,47189
 Tennessee,Wilson County,47189
+Texas,Bastrop County,48021
+Texas,Bexar County,48029
 Texas,Bexar County,48029
 Texas,Bexar County,48029
 Texas,Bexar County,48029
@@ -2540,6 +3384,7 @@ Texas,Collin County,48085
 Texas,Collin County,48085
 Texas,Collin County,48085
 Texas,Collin County,48085
+Texas,Collin County,48085
 Texas,Comal County,48091
 Texas,Comal County,48091
 Texas,Comal County,48091
@@ -2549,17 +3394,31 @@ Texas,Dallas County,48113
 Texas,Dallas County,48113
 Texas,Dallas County,48113
 Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Dallas County,48113
+Texas,Denton County,48121
 Texas,Denton County,48121
 Texas,Denton County,48121
 Texas,Denton County,48121
 Texas,Denton County,48121
 Texas,El Paso County,48141
+Texas,El Paso County,48141
 Texas,Erath County,48143
+Texas,Fort Bend County,48157
 Texas,Fort Bend County,48157
 Texas,Fort Bend County,48157
 Texas,Fort Bend County,48157
 Texas,Galveston County,48167
 Texas,Guadalupe County,48187
+Texas,Harris County,48201
 Texas,Harris County,48201
 Texas,Harris County,48201
 Texas,Harris County,48201
@@ -2587,6 +3446,7 @@ Texas,Montgomery County,48339
 Texas,Nueces County,48355
 Texas,Nueces County,48355
 Texas,Nueces County,48355
+Texas,Nueces County,48355
 Texas,San Patricio County,48409
 Texas,Tarrant County,48439
 Texas,Tarrant County,48439
@@ -2599,6 +3459,17 @@ Texas,Tarrant County,48439
 Texas,Tarrant County,48439
 Texas,Tarrant County,48439
 Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Tarrant County,48439
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
+Texas,Travis County,48453
 Texas,Travis County,48453
 Texas,Travis County,48453
 Texas,Travis County,48453
@@ -2629,10 +3500,15 @@ Utah,Salt Lake County,49035
 Utah,Salt Lake County,49035
 Utah,Salt Lake County,49035
 Utah,Salt Lake County,49035
+Utah,Salt Lake County,49035
+Utah,Salt Lake County,49035
 Utah,Summit County,49043
 Utah,Summit County,49043
 Utah,Summit County,49043
 Utah,Utah County,49049
+Utah,Utah County,49049
+Utah,Utah County,49049
+Utah,Wayne County,49055
 Utah,Weber County,49057
 Utah,Weber County,49057
 Vermont,Addison County,50001
@@ -2640,6 +3516,9 @@ Vermont,Addison County,50001
 Vermont,Addison County,50001
 Vermont,Addison County,50001
 Vermont,Addison County,50001
+Vermont,Addison County,50001
+Vermont,Addison County,50001
+Vermont,Bennington County,50003
 Vermont,Bennington County,50003
 Vermont,Bennington County,50003
 Vermont,Bennington County,50003
@@ -2659,8 +3538,15 @@ Vermont,Franklin County,50011
 Vermont,Orange County,50017
 Vermont,Orange County,50017
 Vermont,Orange County,50017
+Vermont,Orange County,50017
+Vermont,Orange County,50017
+Vermont,Orange County,50017
+Vermont,Rutland County,50021
+Vermont,Washington County,50023
 Vermont,Windham County,50025
 Vermont,Windham County,50025
+Vermont,Windsor County,50027
+Vermont,Windsor County,50027
 Vermont,Windsor County,50027
 Virginia,Albemarle County,51003
 Virginia,Albemarle County,51003
@@ -2880,10 +3766,21 @@ Virginia,Albemarle County,51003
 Virginia,Albemarle County,51003
 Virginia,Albemarle County,51003
 Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
+Virginia,Albemarle County,51003
 Virginia,Alexandria city,51510
 Virginia,Alexandria city,51510
 Virginia,Alexandria city,51510
 Virginia,Alexandria city,51510
+Virginia,Arlington County,51013
+Virginia,Arlington County,51013
+Virginia,Arlington County,51013
+Virginia,Arlington County,51013
+Virginia,Arlington County,51013
 Virginia,Arlington County,51013
 Virginia,Arlington County,51013
 Virginia,Arlington County,51013
@@ -2906,6 +3803,7 @@ Virginia,Augusta County,51015
 Virginia,Augusta County,51015
 Virginia,Augusta County,51015
 Virginia,Bedford County,51019
+Virginia,Bedford County,51019
 Virginia,Bland County,51021
 Virginia,Botetourt County,51023
 Virginia,Botetourt County,51023
@@ -2914,6 +3812,10 @@ Virginia,Botetourt County,51023
 Virginia,Botetourt County,51023
 Virginia,Botetourt County,51023
 Virginia,Botetourt County,51023
+Virginia,Campbell County,51031
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
+Virginia,Charlottesville city,51540
 Virginia,Charlottesville city,51540
 Virginia,Charlottesville city,51540
 Virginia,Charlottesville city,51540
@@ -2968,6 +3870,11 @@ Virginia,Chesapeake city,51550
 Virginia,Chesapeake city,51550
 Virginia,Chesapeake city,51550
 Virginia,Chesapeake city,51550
+Virginia,Chesapeake city,51550
+Virginia,Chesapeake city,51550
+Virginia,Chesterfield County,51041
+Virginia,Chesterfield County,51041
+Virginia,Chesterfield County,51041
 Virginia,Chesterfield County,51041
 Virginia,Chesterfield County,51041
 Virginia,Chesterfield County,51041
@@ -3020,10 +3927,30 @@ Virginia,Fairfax County,51059
 Virginia,Fairfax County,51059
 Virginia,Fairfax County,51059
 Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
+Virginia,Fairfax County,51059
 Virginia,Fauquier County,51061
 Virginia,Fauquier County,51061
 Virginia,Fauquier County,51061
 Virginia,Fauquier County,51061
+Virginia,Fauquier County,51061
+Virginia,Fluvanna County,51065
 Virginia,Fluvanna County,51065
 Virginia,Fluvanna County,51065
 Virginia,Fluvanna County,51065
@@ -3041,7 +3968,10 @@ Virginia,Franklin County,51067
 Virginia,Franklin County,51067
 Virginia,Franklin County,51067
 Virginia,Frederick County,51069
+Virginia,Frederick County,51069
 Virginia,Giles County,51071
+Virginia,Gloucester County,51073
+Virginia,Goochland County,51075
 Virginia,Goochland County,51075
 Virginia,Goochland County,51075
 Virginia,Greene County,51079
@@ -3052,6 +3982,12 @@ Virginia,Greene County,51079
 Virginia,Greene County,51079
 Virginia,Hanover County,51085
 Virginia,Hanover County,51085
+Virginia,Hanover County,51085
+Virginia,Hanover County,51085
+Virginia,Hanover County,51085
+Virginia,Harrisonburg city,51660
+Virginia,Henrico County,51087
+Virginia,Henrico County,51087
 Virginia,Henrico County,51087
 Virginia,Henrico County,51087
 Virginia,Henrico County,51087
@@ -3063,6 +3999,16 @@ Virginia,Henrico County,51087
 Virginia,Isle of Wight County,51093
 Virginia,James City County,51095
 Virginia,James City County,51095
+Virginia,James City County,51095
+Virginia,James City County,51095
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
+Virginia,Loudoun County,51107
 Virginia,Loudoun County,51107
 Virginia,Loudoun County,51107
 Virginia,Loudoun County,51107
@@ -3079,6 +4025,12 @@ Virginia,Lynchburg city,51680
 Virginia,Madison County,51113
 Virginia,Madison County,51113
 Virginia,Mecklenburg County,51117
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
+Virginia,Montgomery County,51121
 Virginia,Montgomery County,51121
 Virginia,Montgomery County,51121
 Virginia,Montgomery County,51121
@@ -3139,12 +4091,17 @@ Virginia,Newport News city,51700
 Virginia,Newport News city,51700
 Virginia,Newport News city,51700
 Virginia,Newport News city,51700
+Virginia,Newport News city,51700
 Virginia,Norfolk city,51710
 Virginia,Norfolk city,51710
 Virginia,Orange County,51137
 Virginia,Orange County,51137
 Virginia,Poquoson city,51735
 Virginia,Poquoson city,51735
+Virginia,Powhatan County,51145
+Virginia,Prince William County,51153
+Virginia,Prince William County,51153
+Virginia,Prince William County,51153
 Virginia,Prince William County,51153
 Virginia,Prince William County,51153
 Virginia,Prince William County,51153
@@ -3166,6 +4123,9 @@ Virginia,Richmond city,51760
 Virginia,Richmond city,51760
 Virginia,Richmond city,51760
 Virginia,Richmond city,51760
+Virginia,Richmond city,51760
+Virginia,Richmond County,51159
+Virginia,Roanoke city,51770
 Virginia,Roanoke city,51770
 Virginia,Roanoke city,51770
 Virginia,Roanoke city,51770
@@ -3221,6 +4181,8 @@ Virginia,Roanoke County,51161
 Virginia,Roanoke County,51161
 Virginia,Roanoke County,51161
 Virginia,Rockbridge County,51163
+Virginia,Rockingham County,51165
+Virginia,Rockingham County,51165
 Virginia,Salem city,51775
 Virginia,Salem city,51775
 Virginia,Salem city,51775
@@ -3233,8 +4195,13 @@ Virginia,Spotsylvania County,51177
 Virginia,Spotsylvania County,51177
 Virginia,Spotsylvania County,51177
 Virginia,Spotsylvania County,51177
+Virginia,Spotsylvania County,51177
+Virginia,Stafford County,51179
 Virginia,Staunton city,51790
 Virginia,Staunton city,51790
+Virginia,Staunton city,51790
+Virginia,Virginia Beach city,51810
+Virginia,Virginia Beach city,51810
 Virginia,Virginia Beach city,51810
 Virginia,Virginia Beach city,51810
 Virginia,Virginia Beach city,51810
@@ -3244,6 +4211,7 @@ Virginia,Virginia Beach city,51810
 Virginia,Washington County,51191
 Virginia,Washington County,51191
 Virginia,Washington County,51191
+Virginia,Waynesboro city,51820
 Virginia,Waynesboro city,51820
 Virginia,Waynesboro city,51820
 Virginia,Williamsburg city,51830
@@ -3258,6 +4226,11 @@ Washington,Benton County,53005
 Washington,Benton County,53005
 Washington,Benton County,53005
 Washington,Benton County,53005
+Washington,Benton County,53005
+Washington,Benton County,53005
+Washington,Chelan County,53007
+Washington,Chelan County,53007
+Washington,Clark County,53011
 Washington,Clark County,53011
 Washington,Clark County,53011
 Washington,Clark County,53011
@@ -3312,10 +4285,35 @@ Washington,King County,53033
 Washington,King County,53033
 Washington,King County,53033
 Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
+Washington,King County,53033
 Washington,Kitsap County,53035
 Washington,Kitsap County,53035
 Washington,Kitsap County,53035
 Washington,Kitsap County,53035
+Washington,Kitsap County,53035
+Washington,Pierce County,53053
+Washington,Pierce County,53053
+Washington,Pierce County,53053
 Washington,Pierce County,53053
 Washington,Pierce County,53053
 Washington,Pierce County,53053
@@ -3334,6 +4332,9 @@ Washington,Snohomish County,53061
 Washington,Snohomish County,53061
 Washington,Snohomish County,53061
 Washington,Snohomish County,53061
+Washington,Snohomish County,53061
+Washington,Snohomish County,53061
+Washington,Snohomish County,53061
 Washington,Spokane County,53063
 Washington,Spokane County,53063
 Washington,Thurston County,53067
@@ -3341,6 +4342,8 @@ Washington,Thurston County,53067
 Washington,Thurston County,53067
 Washington,Thurston County,53067
 Washington,Walla Walla County,53071
+Washington,Whatcom County,53073
+Washington,Whatcom County,53073
 Washington,Whatcom County,53073
 West Virginia,Berkeley County,54003
 West Virginia,Berkeley County,54003
@@ -3355,6 +4358,8 @@ West Virginia,Hancock County,54029
 West Virginia,Hancock County,54029
 West Virginia,Hancock County,54029
 West Virginia,Kanawha County,54039
+West Virginia,Kanawha County,54039
+West Virginia,Marion County,54049
 West Virginia,Marion County,54049
 West Virginia,Marshall County,54051
 West Virginia,Monongalia County,54061
@@ -3384,18 +4389,42 @@ Wisconsin,Dane County,55025
 Wisconsin,Dane County,55025
 Wisconsin,Dane County,55025
 Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
+Wisconsin,Dane County,55025
 Wisconsin,Dunn County,55033
 Wisconsin,Eau Claire County,55035
 Wisconsin,Eau Claire County,55035
+Wisconsin,Kenosha County,55059
+Wisconsin,La Crosse County,55063
 Wisconsin,Milwaukee County,55079
 Wisconsin,Milwaukee County,55079
+Wisconsin,Milwaukee County,55079
+Wisconsin,Milwaukee County,55079
+Wisconsin,Milwaukee County,55079
+Wisconsin,Outagamie County,55087
+Wisconsin,Ozaukee County,55089
 Wisconsin,Portage County,55097
 Wisconsin,Racine County,55101
+Wisconsin,Rock County,55105
+Wisconsin,Sheboygan County,55117
 Wisconsin,Sheboygan County,55117
 Wisconsin,St. Croix County,55109
 Wisconsin,St. Croix County,55109
 Wisconsin,Waukesha County,55133
 Wisconsin,Waukesha County,55133
+Wisconsin,Waukesha County,55133
+Wisconsin,Winnebago County,55139
+Wyoming,Albany County,56001
 Wyoming,Albany County,56001
 Wyoming,Fremont County,56013
 Wyoming,Fremont County,56013
@@ -3409,5 +4438,8 @@ Wyoming,Fremont County,56013
 Wyoming,Fremont County,56013
 Wyoming,Fremont County,56013
 Wyoming,Fremont County,56013
+Wyoming,Fremont County,56013
+Wyoming,Laramie County,56021
 Wyoming,Natrona County,56025
+Wyoming,Teton County,56039
 Wyoming,Teton County,56039
